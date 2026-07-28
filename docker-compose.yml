@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  neo4j:
+    image: neo4j:5.18.1
+    container_name: pip-neo4j
+    ports:
+      - "7474:7474" # HTTP interface
+      - "7687:7687" # Bolt protocol
+    environment:
+      - NEO4J_AUTH=neo4j/password
+    volumes:
+      - neo4j_data:/data
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:16
+    container_name: pip-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=pip_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  neo4j_data:
+  postgres_data:

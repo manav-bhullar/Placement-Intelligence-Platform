@@ -1,0 +1,10 @@
+browser-use>=0.13.0
+python-dotenv>=1.0.0
+pydantic>=2.7
+pypdf>=5.0.0
+rich>=13.0.0
+
+# Optional providers. browser-use bundles the OpenAI, Anthropic, Google and
+# Groq SDKs already; these are only needed for the extras below.
+# litellm>=1.50.0   # required for ChatLiteLLM (OpenRouter, Qwen, etc.)
+playwright>=1.40.0
