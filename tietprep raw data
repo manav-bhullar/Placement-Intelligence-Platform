@@ -9147,3 +9147,2604 @@ A HUMBLE SOLUTIONS PRODUCT
 
 
 
+Back
+GET/TRAINEE
+Question Set 5
+GET/Trainee
+Similar questions asked at Cnh Industrials
+Question Set 5
+GET/Trainee
+9
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Electronics & Communication Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics
+
+Technical Questions
+Reported by students
+7
+1
+What is the difference between an inductive sensor and a capacitive sensor?
+2
+Can you walk us through the projects mentioned in your CV?
+3
+What did you work on during your internship and what were your key learnings?
+4
+What types of sensors are commonly used in the automotive sector?
+5
+What types of pins are available on an Arduino and what are their functions?
+6
+What is a PWM pin and how does it work?
+7
+What is the major working principle behind PWM (Pulse Width Modulation)?
+
+HR Questions
+Reported by students
+2
+1
+Can you give a brief introduction about yourself?
+2
+Are you comfortable with the bond period mentioned in the offer terms?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+CNH Industrial manufactures agricultural and construction equipment brands like Case IH and New Holland , how do you see embedded systems or electronics engineering contributing to the development of such machinery?
+2
+How would you approach fault diagnosis in a sensor-based system on a tractor or construction vehicle?
+3
+What is the role of a CAN (Controller Area Network) bus in automotive and agricultural machinery, and have you worked with any such communication protocols?
+4
+Explain the concept of closed-loop control systems and how they are applied in hydraulic systems found in agricultural equipment.
+5
+CNH Industrial is investing heavily in precision agriculture technologies , what do you understand by precision agriculture and how does IoT play a role in it?
+6
+How does a microcontroller differ from a microprocessor, and which would you prefer to use in an embedded control application for a vehicle system and why?
+7
+What are the safety standards (such as ISO 26262 or similar) relevant to functional safety in automotive and off-highway vehicle electronics, and why are they important?
+8
+If you were tasked with improving the fuel efficiency of a diesel engine in a CNH construction vehicle using electronic control systems, what approach would you take?
+
+Topics & Skills
+What the company tests
+9
+Sensors
+Inductive Sensors
+Capacitive Sensors
+PWM
+Arduino
+Automotive Electronics
+Embedded Systems
+Internship Experience
+Project Work
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 6
+GET/Trainee
+Similar questions asked at Ericsson
+Question Set 6
+GET/Trainee
+Internship
+50
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+34
+1
+Implement a browser history system that supports navigating forward and backward by x steps, while also storing and restoring session history using appropriate data structures.
+2
+Find duplicate employee IDs or duplicate salaries from a given dataset using SQL or a DSA approach.
+3
+Implement a queue using stacks.
+4
+Detect a loop in a linked list.
+5
+Reverse a linked list.
+6
+Write a pseudocode for binary search.
+7
+Explain the OSI model and its layers.
+8
+What is the difference between TCP and UDP?
+9
+What is the difference between HTTP and HTTPS?
+10
+What is the difference between relational and non-relational databases?
+11
+Write a SQL query using JOINs to solve a given problem.
+12
+Find the frequency count of characters in a given string.
+13
+Implement heap sort and explain its time complexity.
+14
+What is a priority queue and how is it implemented?
+15
+Explain polymorphism with an example.
+16
+What is a Process Control Block (PCB) and what information does it contain?
+17
+How do you find the average waiting time of processes in CPU scheduling?
+18
+What are the differences between Linux and Unix?
+19
+Explain multithreading and its advantages in operating systems.
+20
+What is deep learning and how does it differ from traditional machine learning?
+21
+Analyze the time and space complexity of a given piece of code and suggest optimizations.
+22
+Explain your projects and the technical decisions you made during development.
+23
+What is Docker and how is it used in software development?
+24
+Explain hash maps and their insertion and deletion time complexities.
+25
+Given a scenario where a new technology needs to be integrated into an existing system, how would you approach the implementation?
+26
+Can you explain DBMS to someone with no prior knowledge of the subject?
+27
+What is an IP address and how does it differ from a MAC address?
+28
+Which is your most proficient technical skill and how have you applied it?
+29
+What is Cloud Native (CN) and how does it differ from traditional network architectures?
+30
+What are the key concepts of an Operating System that are relevant to backend or network engineering?
+31
+What were the major technical challenges you faced in your academic or personal projects, and how did you resolve them?
+32
+Can you explain how a simple network session is established, maintained, and terminated?
+33
+Walk me through your most significant project — its architecture, your role, and the technologies used.
+34
+What are your core technical skills and how have you applied them in real-world or academic scenarios?
+
+HR Questions
+Reported by students
+16
+1
+Tell me about yourself.
+2
+Why do you want to work at Ericsson?
+3
+What do you know about Ericsson beyond what was shared in the pre-placement talk?
+4
+Describe a situation where you faced difficulties while building a project and how you resolved it.
+5
+What are your strengths and weaknesses?
+6
+How do you approach solving a problem you have no prior experience with?
+7
+How do you work on a problem independently without supervision?
+8
+What are your preferences regarding job profile and job location?
+9
+Tell us about your hackathon experience and your contributions.
+10
+What would you like to know about the company or the role?
+11
+Why should we hire you over candidates with stronger academic records?
+12
+Would you consider switching companies if you found a better opportunity elsewhere?
+13
+Why do you want to join Ericsson, and what excites you about the CNS Engineer role?
+14
+Where do you see yourself professionally in the next three to five years?
+15
+How do you handle working under pressure or tight deadlines in a team environment?
+16
+Can you describe a situation where you had to quickly learn a new technology or concept to complete a task?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Ericsson is a major player in 5G infrastructure , can you explain the key architectural differences between 4G LTE and 5G NR networks?
+2
+How does Network Function Virtualization (NFV) differ from Software Defined Networking (SDN), and how are these concepts relevant to telecom companies like Ericsson?
+3
+Ericsson heavily uses cloud-native architecture in its products , how would you design a fault-tolerant microservices-based system for a telecom application?
+4
+Explain how you would optimize a Python script that processes large volumes of network log data to detect anomalies in real time.
+5
+In the context of telecom network management, how would you use SQL to identify and report network nodes that have had more than three outages in the past month?
+6
+Ericsson works extensively with real-time systems , how does an operating system handle real-time scheduling, and what are the trade-offs involved?
+7
+How would you approach debugging a performance issue in a distributed system where latency spikes occur intermittently across multiple nodes?
+8
+Given Ericsson's focus on cybersecurity in telecom, how would you identify and mitigate a man-in-the-middle attack on a network communication channel?
+
+Topics & Skills
+What the company tests
+27
+Data Structures & Algorithms
+Linked Lists
+Stacks & Queues
+Hash Maps
+Trees
+Heap Sort
+SQL
+Database Management Systems
+Computer Networks
+OSI Model
+TCP/UDP
+HTTP/HTTPS
+Operating Systems
+CPU Scheduling
+Process Control Block
+Multithreading
+Linux/Unix
+Python
+C++
+Object-Oriented Programming
+Machine Learning
+Deep Learning
+PyTorch
+Docker
+Cybersecurity
+Time & Space Complexity
+System Design
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 7
+GET/Trainee
+Similar questions asked at Exicom
+Question Set 7
+GET/Trainee
+59
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+
+Technical Questions
+Reported by students
+43
+1
+What are the internal components used in a Motor Controller and how do they function together?
+2
+What is the principle of working of a Transformer?
+3
+What are the components used in your project and what is the role of each?
+4
+What is the difference between active power and reactive power?
+5
+What is the purpose of a Freewheeling Diode in a circuit?
+6
+How did you approach and solve the questions in the offline aptitude/technical test?
+7
+How does a BJT work as an amplifier?
+8
+What is a relay and how does it function?
+9
+Design a block diagram for an Analog-to-Digital Converter (ADC).
+10
+Design a low-pass filter and explain its working.
+11
+What is the difference between a coil and a core in a transformer?
+12
+Explain CMOS technology and its working principle.
+13
+Explain the working of an inductor in detail.
+14
+How is AC converted to DC?
+15
+How is DC-DC conversion achieved?
+16
+Explain inverting and non-inverting feedback configurations in op-amps.
+17
+What is a Miniature Circuit Breaker (MCB) and how does it work?
+18
+Analyze a given RLC circuit and determine the value of current.
+19
+On what principle does a transformer work, and what is mutual induction?
+20
+What is the complete EV powertrain and can you explain all its components?
+21
+How is AI used in EV charging systems and controllers?
+22
+Which communication protocols are used in EV charging?
+23
+Which programming language are you most proficient in and how have you applied it in your projects?
+24
+What is the difference between MOSFET and BJT?
+25
+Between BJT and MOSFET, which is preferred at higher frequencies and why?
+26
+What is voltage gain in Op-Amps and how is it calculated?
+27
+What are Op-Amps, their key characteristics, and applications?
+28
+How would you solve a circuit analysis problem based on the virtual short concept in Op-Amps?
+29
+How would you connect a 10V LED to a 3.3V Arduino?
+30
+How would you drive a 12V bulb using a 3.3V input source?
+31
+How do you implement a NOT gate using CMOS logic?
+32
+What is a NOR gate and a NOT gate, and how do they work?
+33
+What is the S11 parameter in RF/microwave circuits?
+34
+What is the S21 parameter and what does it signify?
+35
+Describe the work you did during your DRDO internship.
+36
+Perform a circuit analysis on a given Zener diode-based circuit.
+37
+What is your understanding of the basic concepts in C and C++?
+38
+What is the difference between the break and continue statements in C?
+39
+Can you explain the working of an operational amplifier (Op-Amp) in hardware?
+40
+Given a problem scenario, how would you design an efficient solution?
+41
+Can you write a program by hand to demonstrate your coding ability?
+42
+What is Selenium and how is it used for automated testing?
+43
+How do you swap two numbers with and without using a third variable?
+
+HR Questions
+Reported by students
+16
+1
+Tell me about yourself and your background.
+2
+Why do you want to join Exicom as a Graduate Engineer Trainee?
+3
+Where do you see yourself in the next five years?
+4
+Are you open to relocation or working in different departments as part of your training?
+5
+Can you introduce yourself and give some background about your family?
+6
+What are your hobbies and extracurricular activities?
+7
+Why did you choose M.Tech in EV instead of pursuing a profession like your father?
+8
+Do you have any plans to pursue higher education in the future?
+9
+What are your job location preferences?
+10
+Can you walk us through your internships and projects?
+11
+Why did you choose hardware engineering as your career path?
+12
+Tell me about yourself and your background in hardware or embedded systems.
+13
+What projects or experiences on your resume are you most proud of?
+14
+Where do you see yourself in the next 3 to 5 years in the hardware domain?
+15
+Do you have any plans for further studies, and if so, how does that affect your commitment to this role?
+16
+How long do you see yourself continuing in a professional software development role before considering higher education?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Exicom is a major manufacturer of EV chargers and telecom power systems , how does a DC fast charger (DCFC) differ from an AC charger in terms of working principle and components?
+2
+Can you explain the working of a Buck or Boost converter and where it is used in EV charging infrastructure?
+3
+What is Power Factor Correction (PFC) and why is it critical in EV charger design?
+4
+How does a Battery Management System (BMS) work, and what parameters does it monitor to ensure safe EV battery operation?
+5
+What is the role of an IGBT or MOSFET in a power converter, and how do you select between the two for a given application?
+6
+Explain the concept of thermal management in power electronics systems such as EV chargers , why is it important and what methods are used?
+7
+What are the relevant BIS or IEC standards that apply to EV charging equipment in India, and why does compliance matter for a company like Exicom?
+8
+How would you approach fault diagnosis in a malfunctioning power supply unit , what systematic steps would you follow as a Graduate Engineer Trainee?
+
+Topics & Skills
+What the company tests
+9
+Motor Controller
+Transformer
+Active Power
+Reactive Power
+Freewheeling Diode
+Power Electronics
+Project Explanation
+EV Charging Systems
+Circuit Components
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 8
+GET/Trainee
+Similar questions asked at Gruner Renewable
+Question Set 8
+GET/Trainee
+Internship
+11
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+
+Technical Questions
+Reported by students
+7
+1
+What are the basic components and working principles of a PLC (Programmable Logic Controller)?
+2
+What is SCADA, and how is it used in industrial automation and monitoring systems?
+3
+Can you describe a project you have worked on related to instrumentation or automation?
+4
+What are the advanced concepts in control systems that you have studied?
+5
+Can you explain the fundamental concepts of control systems, such as open-loop and closed-loop systems?
+6
+What is your favorite subject and why?
+7
+What is virtual instrumentation and how is it used in measurement and automation systems?
+
+HR Questions
+Reported by students
+4
+1
+Are you open to relocation, and do you have any location preferences or constraints?
+2
+Can you briefly introduce yourself and walk us through your background?
+3
+Why are you interested in working with Gruner Renewable as an Instrumentation Engineer?
+4
+Where do you see yourself in the next five years in the field of instrumentation and renewable energy?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How does a distributed control system (DCS) differ from a PLC-based system, and when would you choose one over the other in a renewable energy plant?
+2
+What do you understand about SCADA systems used in wind or solar energy monitoring, and what key parameters are typically tracked?
+3
+Can you explain the role of sensors and transmitters in measuring parameters like temperature, pressure, and flow in a power generation facility?
+4
+What is the significance of IEC 61850 or IEC 61511 standards in the context of industrial instrumentation and safety systems for renewable energy plants?
+5
+How would you approach troubleshooting a fault in a PLC-controlled system at a wind or solar power plant?
+6
+What do you know about Gruner Renewable's operations, and why are you interested in working in the renewable energy sector specifically?
+7
+Can you explain the basic working principle of a wind turbine or solar PV system and how instrumentation plays a role in optimizing its performance?
+8
+What is HART communication protocol, and how is it used for communication between field instruments and control systems in an energy plant?
+
+Topics & Skills
+What the company tests
+6
+PLC
+SCADA
+Instrumentation
+Industrial Automation
+Control Systems
+Project Experience
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+GET/TRAINEE
+Question Set 9
+GET/Trainee
+Similar questions asked at HCL
+Question Set 9
+GET/Trainee
+8
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Graduate Engineer Trainee
+ELIGIBLE BRANCHES
+
+B.E. Electronics (Instrumentation & Control) Engineering
+
+Technical Questions
+Reported by students
+5
+1
+How does an LVDT (Linear Variable Differential Transformer) work?
+2
+What is the working principle of a load cell?
+3
+What are the working principles of RTD and thermocouple, and how do they differ?
+4
+How do you solve a numerical problem involving RTD resistance-temperature characteristics?
+5
+What is the truth table of an XOR gate?
+
+HR Questions
+Reported by students
+3
+1
+Tell me about yourself.
+2
+Why do you want to join HCL as a Graduate Engineer Trainee?
+3
+Where do you see yourself in the next five years?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is the difference between a transducer and a sensor, and can you give examples of each used in industrial applications?
+2
+How does a PLC (Programmable Logic Controller) work, and what is its role in industrial automation at a company like HCL Tech?
+3
+What is the significance of calibration in measurement systems, and what are the common calibration methods used for temperature sensors?
+4
+Can you explain the concept of signal-to-noise ratio and how noise interference is minimized in industrial instrumentation systems?
+5
+What is SCADA, and how is it used in monitoring and controlling industrial processes?
+6
+How does a pressure transducer convert mechanical pressure into an electrical signal, and what are its typical applications?
+7
+What is the difference between open-loop and closed-loop control systems, and where is each preferred in an industrial setting?
+8
+HCL serves clients across manufacturing and infrastructure sectors , how would you approach troubleshooting a faulty measurement instrument on a live production floor?
+
+Topics & Skills
+What the company tests
+10
+Industrial Instrumentation
+Digital Electronics
+Measurement Science
+LVDT
+Load Cell
+RTD
+Thermocouple
+Logic Gates
+Sensors and Transducers
+Signal Conditioning
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 10
+GET/Trainee
+Similar questions asked at Hero Steels Limited
+Question Set 10
+GET/Trainee
+8
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+6
+1
+What is the difference between brittle and ductile materials?
+2
+What is the difference between a TTT diagram and an Iron-Carbon phase diagram?
+3
+What is hardness and how is it measured?
+4
+What is the melting temperature of steel?
+5
+Why does stainless steel not corrode?
+6
+Why do we draw the Iron-Carbon phase diagram and what information does it convey?
+
+HR Questions
+Reported by students
+2
+1
+How did you come to know about Hero Steels Limited?
+2
+Are you comfortable working in rotational shift hours?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What are the different grades of stainless steel and what are their typical industrial applications in steel manufacturing plants?
+2
+Can you explain the heat treatment processes such as annealing, quenching, and tempering, and how they affect the mechanical properties of steel?
+3
+What is the significance of the carbon content in steel, and how does varying carbon percentage affect its properties and classification?
+4
+What are the common types of steel defects encountered during rolling or forging operations, and how can they be identified and prevented?
+5
+Can you describe the working principle of a blast furnace and the role of each raw material , iron ore, coke, and limestone , in the steelmaking process?
+6
+What is the difference between hot rolling and cold rolling of steel, and in which applications is each process preferred?
+7
+How does alloying elements like chromium, nickel, manganese, and molybdenum influence the properties of steel?
+8
+As a Graduate Engineer Trainee at Hero Steels Limited, how do you plan to contribute to quality control and process improvement on the shop floor?
+
+Topics & Skills
+What the company tests
+8
+Metallurgy
+Iron-Carbon Phase Diagram
+TTT Diagram
+Mechanical Properties of Materials
+Corrosion and Oxidation
+Heat Treatment
+Steel Manufacturing
+Material Science
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+GET/TRAINEE
+Question Set 11
+GET/Trainee
+Similar questions asked at Hmel
+Question Set 11
+GET/Trainee
+Full Time
+19
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics and Computer Engineering
+M.E. Artificial Intelligence
+
+Technical Questions
+Reported by students
+12
+1
+What is the difference between Amplitude Modulation (AM) and Frequency Modulation (FM)?
+2
+What are the pros and cons of fossil fuels as an energy source?
+3
+What is an LVDT (Linear Variable Differential Transformer) and how does it work?
+4
+What is the truth table for an AND gate?
+5
+What is PLC programming and where is it used in industrial automation?
+6
+What is the difference between P, PI, and PID controllers?
+7
+Given a specific process control scenario, which PID logic would you apply and why?
+8
+How does cryptography work?
+9
+Explain different types of cyber attacks.
+10
+How would you sum the elements at even positions in an array?
+11
+How can you find common elements between two arrays?
+12
+How would you apply machine learning models to predict fan failure systems?
+
+HR Questions
+Reported by students
+7
+1
+Can you tell us about your family background?
+2
+What are your future plans in terms of career growth?
+3
+What are your three key strengths that make you suitable for this role at HMEL?
+4
+What do you know about HMEL as a company?
+5
+Why do you want to work with HMEL specifically?
+6
+What are your career goals for the next 5 to 10 years?
+7
+How did you develop an interest in cybersecurity?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is the difference between symmetric and asymmetric encryption?
+2
+Explain the concept of hashing and its importance in cybersecurity.
+3
+How would you implement a basic Caesar cipher in a programming language of your choice?
+4
+What are the differences between an array and a linked list, and when would you use each?
+5
+Describe a situation where you had to solve a complex problem. What approach did you take?
+6
+How can you reverse a string in place without using any additional data structures?
+7
+What is the importance of data integrity in cybersecurity, and how can it be ensured?
+8
+Given a string, how would you find the first non-repeating character?
+
+Topics & Skills
+What the company tests
+20
+PLC Programming
+Process Control
+PID Controllers
+Instrumentation
+Signal Modulation
+Logic Gates
+LVDT
+Fossil Fuels
+Industrial Automation
+Refinery Operations
+Cryptography
+Cybersecurity
+Arrays
+Strings
+Machine Learning
+Data Structures
+Algorithms
+Problem Solving
+Encryption
+Hashing
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 12
+GET/Trainee
+Similar questions asked at Isgec
+Question Set 12
+GET/Trainee
+Internship
+Full Time
+22
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+19
+1
+What are the differences between a 2-stroke and a 4-stroke engine?
+2
+What is ANSYS and how is it used in engineering analysis?
+3
+What are the differences between turning and milling operations?
+4
+Can you explain your capstone project and the cutter technology you used?
+5
+What are the common defects in casting and how can they be prevented?
+6
+How is a product made using the casting process?
+7
+Can you give examples of shear stress experienced by objects in this room?
+8
+What are the different types of forging processes?
+9
+What are the various metal forming processes and their applications?
+10
+How do you determine the tolerances of shafts using manufacturing technologies?
+11
+What are the key differences between petrol and diesel engines?
+12
+Can you explain a concept related to Strength of Materials?
+13
+What is a TTT diagram and what does it represent?
+14
+What is the overdamped condition in a vibration system?
+15
+What are the different types of welding processes and their applications?
+16
+What happens when diesel is used in a petrol engine?
+17
+What is temperature and how is it defined thermodynamically?
+18
+What is the Zeroth Law of Thermodynamics?
+19
+Have you innovated or improved anything in any of your academic projects?
+
+HR Questions
+Reported by students
+3
+1
+How do you handle stress and pressure at work?
+2
+What are your key strengths and weaknesses?
+3
+Can you walk me through your resume and highlight your major experiences?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Isgec Heavy Engineering manufactures pressure vessels and heat exchangers , can you explain the significance of ASME codes in the design and fabrication of pressure vessels?
+2
+Isgec is known for its boiler manufacturing , what are the different types of boilers, and what are the key differences between fire-tube and water-tube boilers?
+3
+As a Graduate Engineer Trainee at Isgec, you may work on large fabrication projects , how is welding quality ensured in heavy structural fabrications, and what non-destructive testing methods are commonly used?
+4
+Isgec deals with sugar plant machinery and process equipment , can you explain the basic working principle of an evaporator used in the sugar industry?
+5
+What is the significance of heat treatment processes such as annealing, normalizing, and quenching in the manufacturing of heavy engineering components?
+6
+Isgec manufactures presses and compactors , can you explain the working principle of a hydraulic press and how Pascal's law applies to it?
+7
+How would you approach root cause analysis if a manufactured component fails a quality inspection on the shop floor at a heavy engineering plant like Isgec?
+8
+What is the role of GD&T (Geometric Dimensioning and Tolerancing) in ensuring the interchangeability of machined parts in large-scale manufacturing?
+
+Topics & Skills
+What the company tests
+15
+Thermodynamics
+Manufacturing Processes
+Casting
+Forging
+Forming
+Welding
+Turning and Milling
+Strength of Materials
+TTT Diagram
+IC Engines
+ANSYS
+Tolerances and Fits
+Vibration Analysis
+Engineering Drawing
+Aptitude and Logical Reasoning
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 13
+GET/Trainee
+Similar questions asked at Jsw
+Question Set 13
+GET/Trainee
+Full Time
+6
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+
+Technical Questions
+Reported by students
+5
+1
+Can you discuss your project in detail, including your role and the technologies used?
+2
+How do you import or connect data sources in Power BI?
+3
+What do you mean by scalable systems and why are they important?
+4
+Which design tool did you use for your project, and why did you choose it?
+5
+Which project management or tracking tool did you use to monitor your project progress?
+
+HR Questions
+Reported by students
+1
+1
+Are you willing to relocate to any location as required by the company?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+JSW operates across steel, energy, infrastructure, and cement sectors , which domain interests you the most and how does your background align with it?
+2
+How would you approach optimizing a Power BI dashboard to handle large volumes of real-time plant or manufacturing data at a facility like JSW Steel?
+3
+JSW has been investing heavily in digital transformation and Industry 4.0 , can you explain how technologies like IoT or data analytics can improve operational efficiency in a steel plant?
+4
+As a Graduate Engineer Trainee at JSW, you may be rotated across departments. How do you plan to adapt quickly to different functional areas such as production, maintenance, and quality control?
+5
+Can you explain the concept of a data pipeline and how you would design one to feed operational metrics into a reporting tool like Power BI for a manufacturing unit?
+6
+JSW emphasizes sustainability and green steel initiatives. How aware are you of decarbonization practices in the steel industry, such as use of hydrogen or electric arc furnaces?
+7
+How would you identify and resolve a bottleneck in a production process using data-driven analysis and visualization tools?
+8
+What do you understand about ERP systems such as SAP, and how are they used in large-scale manufacturing companies like JSW for resource and workflow management?
+
+Topics & Skills
+What the company tests
+7
+Power BI
+Data Integration
+System Scalability
+Project Management
+Software Development
+Design Tools
+Data Visualization
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+GET/TRAINEE
+Question Set 14
+GET/Trainee
+Similar questions asked at Maruti Suzuki
+Question Set 14
+GET/Trainee
+Full Time
+31
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Electrical Engineering
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+25
+1
+What are the differences between a 3-cylinder and a 4-cylinder engine?
+2
+What is the firing order of a 4-cylinder engine, and why is it 1-3-4-2?
+3
+How does an IC engine work?
+4
+Draw and explain the 4-stroke engine cycle.
+5
+Draw the section view of a bottle.
+6
+What is the relationship between power and RPM in an engine?
+7
+What is volumetric efficiency of an engine and how does it affect performance?
+8
+How can we improve the efficiency of an engine?
+9
+What is a differential and how does it function?
+10
+What is the powertrain difference between an EV and an IC vehicle?
+11
+What is hybrid assistance in vehicles?
+12
+What is a power cycle?
+13
+Tell me about the crankshaft and its role in an engine.
+14
+What is the voltage level used for long-distance power transmission lines?
+15
+Tell me about semiconductor devices.
+16
+What is bending stress, and how do stress and strain relate to each other?
+17
+What are the types of databases?
+18
+What is referential integrity in DBMS?
+19
+What is a foreign key? Create tables to demonstrate a foreign key relationship.
+20
+Write an SQL query to sort results in descending order of percentage.
+21
+What are the locations of Maruti Suzuki's manufacturing plants in India?
+22
+Explain the projects mentioned on your resume.
+23
+Draw and label a diagram of an IC engine.
+24
+What is the difference between cost and price?
+25
+Do you know how to drive a vehicle?
+
+HR Questions
+Reported by students
+6
+1
+Tell me about yourself.
+2
+Describe your family background.
+3
+Why do you want to join Maruti Suzuki?
+4
+Would you prefer working in a group or individually?
+5
+What do you value more — motivation or discipline?
+6
+Are you open to switching domains if the role requires it?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Maruti Suzuki uses the Heartect platform for many of its models , what are the advantages of a lightweight platform architecture in terms of fuel efficiency and safety?
+2
+What is the significance of BS6 emission norms, and what technical changes were required in IC engines to comply with them?
+3
+Maruti Suzuki has been expanding its CNG vehicle lineup , what are the engineering trade-offs between CNG and petrol powertrains in terms of performance, storage, and efficiency?
+4
+What is the role of a Graduate Engineer Trainee in a manufacturing plant environment, and which departments would you expect to rotate through during your training period?
+5
+Explain the concept of lean manufacturing and how it applies to an automotive assembly line like the one at Maruti Suzuki's Manesar or Gurugram plant.
+6
+What is the difference between a CVT (Continuously Variable Transmission) and an AMT (Automated Manual Transmission), and why does Maruti Suzuki prefer AMT in its budget segment vehicles?
+7
+How does a regenerative braking system work in a mild hybrid or strong hybrid vehicle, and what components are involved?
+8
+What quality control methodologies such as Six Sigma, FMEA, or Kaizen are commonly used in automotive manufacturing, and can you explain any one in detail?
+
+Topics & Skills
+What the company tests
+24
+IC Engines
+4-Stroke Engine Cycle
+Firing Order
+Powertrain
+Hybrid Vehicles
+Electric Vehicles
+Volumetric Efficiency
+Crankshaft
+Differential
+Strength of Materials
+Stress and Strain
+Bending
+Power Transmission
+Semiconductor Devices
+DBMS
+SQL
+Referential Integrity
+Foreign Keys
+CAD/CAE
+Manufacturing Processes
+Operations Management
+Engineering Drawing
+Resume-Based Questions
+Marketing Basics
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 15
+GET/Trainee
+Similar questions asked at Midea
+Question Set 15
+GET/Trainee
+Internship
+Full Time
+9
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET- Python
+ELIGIBLE BRANCHES
+
+B.E. Electrical Engineering
+
+Technical Questions
+Reported by students
+5
+1
+Can you walk us through your internship experience and what you learned from it?
+2
+How was the plant at TVS that you worked at during your internship?
+3
+Can you explain your project on supercapacitors in detail?
+4
+Can you describe the sensors used in your robotic car buggy project?
+5
+Can you explain your capstone project and the technical challenges you faced?
+
+HR Questions
+Reported by students
+4
+1
+Tell me about yourself.
+2
+What are your key soft skills and how have you applied them in a professional setting?
+3
+Where do you see yourself five years from now?
+4
+As a team leader, how do you manage and distribute work among team members?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Midea is a major home appliance and HVAC manufacturer , can you explain the working principle of a variable refrigerant flow (VRF) air conditioning system?
+2
+How does a brushless DC motor differ from a conventional DC motor, and where is it typically used in home appliances?
+3
+Can you explain the concept of energy efficiency ratings (like BEE star ratings) and why they are important for Midea's product line?
+4
+What do you understand about IoT integration in smart home appliances, and how do you think it impacts product design for a company like Midea?
+5
+Can you describe the role of a Graduate Engineer Trainee in a manufacturing setup and how you would contribute during your initial months at Midea?
+6
+What is a PLC (Programmable Logic Controller) and how is it used in appliance manufacturing or assembly line automation?
+7
+How would you approach troubleshooting an electrical fault in a production line at a manufacturing plant?
+8
+Midea operates large-scale manufacturing facilities , what do you know about quality control processes such as Six Sigma or Lean Manufacturing, and how would you apply them on the shop floor?
+
+Topics & Skills
+What the company tests
+8
+Basic Electrical
+Electrical Energy
+Supercapacitors
+Robotics
+Sensors
+Internship Experience
+Capstone Project
+Team Leadership
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 16
+GET/Trainee
+Similar questions asked at Nestle
+Question Set 16
+GET/Trainee
+21
+QUESTIONS
+ELIGIBLE BRANCHES
+
+B.E. Chemical Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+15
+1
+Explain the concept of material balance.
+2
+Explain the concept of energy balance.
+3
+What is HAZOP and how is it applied in industrial settings?
+4
+Describe the different types of flowmeters and their applications.
+5
+What is a Variable Frequency Drive (VFD) and how does it work?
+6
+Provide a ladder logic diagram for a tank with a level sensor.
+7
+What is feedforward control and how does it differ from feedback control?
+8
+List and describe the types of pumps used in industry.
+9
+List and describe the types of compressors used in industry.
+10
+Explain the Carnot cycle and its significance in thermodynamics.
+11
+What are the different types of welding techniques?
+12
+Discuss the design and specifications of pumps.
+13
+Explain various thermodynamic cycles.
+14
+What is chipset technology?
+15
+Describe a project involving the ESP32 microcontroller.
+
+HR Questions
+Reported by students
+6
+1
+Introduce yourself.
+2
+Why are you interested in working at a factory job?
+3
+What do your parents do?
+4
+Are you willing to relocate?
+5
+Why do you want to work at Nestle?
+6
+What are your leadership skills?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Describe the working principle of a Programmable Logic Controller (PLC) and its applications in automation.
+2
+How would you approach solving a problem involving the optimization of a production line?
+3
+Explain the differences between renewable and conventional energy sources and their impact on the environment.
+4
+What is the significance of SCADA systems in industrial automation?
+5
+Design an algorithm to find the shortest path in a weighted graph.
+6
+How would you implement a basic queue data structure using arrays?
+7
+Solve a problem involving the calculation of the efficiency of a thermodynamic cycle.
+8
+How would you handle a situation where a team member is not contributing effectively to a project?
+
+Topics & Skills
+What the company tests
+19
+Material Balance
+Energy Balance
+HAZOP
+Flowmeters
+Variable Frequency Drive
+Ladder Logic
+Feedforward Control
+Feedback Control
+Pumps
+Compressors
+Carnot Cycle
+Welding
+Thermodynamic Cycles
+Chipset Technology
+ESP32
+Programmable Logic Controller
+SCADA
+Renewable Energy
+Conventional Energy
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+GET/TRAINEE
+Question Set 17
+GET/Trainee
+Similar questions asked at Polycab
+Question Set 17
+GET/Trainee
+11
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET- Sales
+
+Technical Questions
+Reported by students
+6
+1
+What is the difference between a distributor and a retailer in a sales channel?
+2
+What are the essential qualities and skills required to be an effective salesman?
+3
+How does an engineering background help in a technical sales role for electrical products?
+4
+What is ROI (Return on Investment) and how is it relevant for distributors managing stock and evaluating company schemes?
+5
+Why do retailers typically earn a higher margin per unit compared to distributors, and how does the margin structure work in a channel sales model?
+6
+Can you explain a technical project you have worked on and the components or technologies involved?
+
+HR Questions
+Reported by students
+5
+1
+Can you tell us about your family background?
+2
+Are you comfortable with field work, frequent travel, and relocating to a new city or region?
+3
+Do you have a valid driving licence and are you willing to use personal or company transport for market visits?
+4
+Are you genuinely interested in building a long-term career in sales?
+5
+What does your father do professionally?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Polycab is one of India's largest manufacturers of wires and cables. What do you know about its core product portfolio and the key industries it serves?
+2
+How would you plan your first 30 days in a new sales territory assigned to you as a Graduate Trainee at Polycab?
+3
+If a retailer in your territory is consistently pushing a competitor brand like Havells or Finolex over Polycab, how would you handle that situation and win back shelf space?
+4
+Polycab recently expanded into the FMEG (Fast Moving Electrical Goods) segment with products like fans, lights, and switches. How would you pitch this expanded portfolio to an existing wire and cable distributor?
+5
+How would you conduct a market mapping exercise for a new town or district assigned to you, and what data points would you track?
+6
+What is secondary sales and why is it considered a more accurate indicator of market performance than primary sales for a company like Polycab?
+7
+If a distributor raises a complaint about slow-moving stock or delayed scheme payouts, how would you manage the situation while maintaining the relationship?
+8
+How would you use MS Excel to prepare a weekly or monthly sales performance report tracking beat-wise sales, target vs. achievement, and distributor-wise offtake?
+
+Topics & Skills
+What the company tests
+12
+Sales Fundamentals
+Distributor & Retailer Management
+Channel Sales
+Market Mapping
+ROI Calculation
+Negotiation Skills
+MS Excel for Reporting
+Electrical Wires & Cables
+Product Knowledge
+Interpersonal & Communication Skills
+Field Sales
+Target Management
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 18
+GET/Trainee
+Similar questions asked at Reliance Industries
+Question Set 18
+GET/Trainee
+Full Time
+14
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Electronics (Instrumentation & Control) Engineering
+
+Technical Questions
+Reported by students
+9
+1
+Can you explain what a basic feedback control loop is and how it works?
+2
+What is the difference between single-phase and three-phase power supply?
+3
+Can you explain Ohm's Law and its practical applications?
+4
+Walk me through the projects mentioned on your resume in detail.
+5
+What are primary sensing elements and can you give some examples?
+6
+What are the different types of sensors and how are they classified?
+7
+What is a transducer and how does it convert a physical quantity into an electrical quantity?
+8
+What types of motors have you studied and what are their key characteristics?
+9
+What is a diode and what are its common applications in electrical circuits?
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself and your background.
+2
+Why do you want to join Reliance Industries as a Graduate Engineer Trainee?
+3
+Where do you see yourself in five years within a large industrial organization?
+4
+How do you handle working under pressure or in challenging field environments?
+5
+Are you willing to relocate to any of Reliance's plant locations across India?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is the difference between a PLC and a DCS, and in which industrial scenarios would you prefer one over the other?
+2
+Can you explain the working principle of a 4-20 mA current loop and why it is preferred over voltage signals in industrial instrumentation?
+3
+What is SCADA and how does it integrate with HMI and PLC systems in a refinery or petrochemical plant?
+4
+How does a PID controller work, and how would you tune the proportional, integral, and derivative parameters for a process control application?
+5
+What are the different types of flow measurement instruments used in oil and gas industries, and what are their working principles?
+6
+Can you explain the concept of intrinsic safety and why it is critical in hazardous areas of a Reliance refinery or chemical plant?
+7
+What is a P&ID diagram and what are its key components that an instrumentation engineer must be able to read?
+8
+How does a Variable Frequency Drive (VFD) work, and what are its advantages in controlling industrial motors at a plant like Reliance's Jamnagar refinery?
+
+Topics & Skills
+What the company tests
+10
+Instrumentation
+Control Systems
+Feedback Loops
+HMI
+PLC Programming
+Sensors and Transducers
+Electrical Machines
+Single-Phase and Three-Phase Systems
+Ohm's Law
+Semiconductor Devices
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 19
+GET/Trainee
+Similar questions asked at Reliance Jio Bp Mobility
+Question Set 19
+GET/Trainee
+Full Time
+7
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Civil Engineering
+B.E. Electrical Engineering
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+5
+1
+What are the electrical equipment typically found at a petrol pump and what are their functions?
+2
+How would you measure the light intensity in a room?
+3
+What is the difference between a pump and a compressor?
+4
+What are the differences between SI (Spark Ignition) and CI (Compression Ignition) engines?
+5
+What are the various components of a transformer and what role does each play?
+
+HR Questions
+Reported by students
+2
+1
+What do you know about Reliance Jio BP Mobility as a company?
+2
+Where do you see yourself in the next five years, and why do you want to work at Jio BP?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Jio BP operates fuel retail and mobility energy solutions in India , how do you think the shift towards EVs and alternative fuels will impact Jio BP's fuel retail business model?
+2
+What safety protocols and standards (such as PESO regulations) are critical when working at a petroleum fuel station, and why are they important?
+3
+Can you explain the working principle of a centrifugal pump and where it is used in a fuel retail or petroleum environment?
+4
+What is the role of a submerged turbine pump (STP) in an underground fuel storage and dispensing system at a petrol pump?
+5
+How does a fuel dispenser work, and what are the key mechanical and electronic components involved in accurate fuel metering?
+6
+What do you understand by HSSE (Health, Safety, Security, and Environment) practices, and how would you apply them in a fuel station environment?
+7
+Jio BP is a joint venture between Reliance Industries and BP plc , can you describe the strategic significance of this partnership in the context of India's energy transition?
+8
+What is the difference between single-phase and three-phase power supply, and which is preferred for heavy electrical equipment at a fuel retail outlet and why?
+
+Topics & Skills
+What the company tests
+8
+Basic Electrical Engineering
+Basic Electronics
+Mechanical Engineering
+Transformers
+IC Engines
+Pumps and Compressors
+Petroleum Equipment
+Photometry
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 20
+GET/Trainee
+Similar questions asked at Samsung C&T
+Question Set 20
+GET/Trainee
+Full Time
+36
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Chemical Engineering
+B.E. Civil Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+30
+1
+What is the working principle of an AVR (Automatic Voltage Regulator)?
+2
+What is the difference between accuracy and precision?
+3
+Can you explain your internship experience in detail, including what you learned?
+4
+Describe your project and the technical challenges you faced?
+5
+What are the basics of the core engineering subjects you have studied?
+6
+What are the key components of a power electronics system?
+7
+How does a current transformer differ from a potential transformer in terms of working and structure?
+8
+What is the difference between pumps and compressors?
+9
+Draw and explain the Bending Moment Diagram for a frame with hinged supports?
+10
+Draw a plant layout of the facility where you completed your internship?
+11
+Draw a typical cross-section for a flexible pavement?
+12
+Draw and explain the Iron-Iron Carbide (Fe-Fe3C) phase diagram?
+13
+Draw and explain the layout of a wastewater treatment plant?
+14
+Can you explain Fluid Dynamics in simple terms to a non-engineer?
+15
+What is a PID controller and how does it work?
+16
+Which type of controller — P, PI, PD, or PID — is most suitable for temperature measurement and why?
+17
+What is the significance of moments in a beam and how are they calculated?
+18
+Explain the process of power generation and transmission from power plants to end users?
+19
+How are solar power stations set up and how do they function?
+20
+How do you solve a truss problem using standard methods?
+21
+What are the different types of level sensors and where are they typically used?
+22
+What is an ESP (Electrostatic Precipitator) and what is its application?
+23
+What is a substation, why is it needed, and what are its key components and equipment?
+24
+What is Bernoulli's equation and what are its practical applications in engineering?
+25
+What is cascade control and when is it used in process control systems?
+26
+What is conduction and how does it differ from other modes of heat transfer?
+27
+Why is AC preferred over DC for long-distance transmission, and what are the pros and cons of each?
+28
+Explain the working principles and types of transformers, motors, and generators, including key components like the core and commutator?
+29
+Tell me about your CSE minor degree and how it complements your core engineering background?
+30
+What are your favourite core engineering subjects and can you answer in-depth questions on them?
+
+HR Questions
+Reported by students
+6
+1
+Can you describe your family background?
+2
+What are your greatest fears and how do you manage them?
+3
+Where do you see yourself professionally five years from now?
+4
+Why should Samsung C&T hire you over other candidates?
+5
+Why do you want to work at Samsung C&T specifically?
+6
+What are your key strengths and weaknesses?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Samsung C&T operates across Engineering & Construction, Trading & Investment, and Fashion businesses , which division are you applying to and how does your engineering background align with its core operations?
+2
+Samsung C&T is known for executing large-scale EPC (Engineering, Procurement, and Construction) projects globally. Can you explain what an EPC contract is and what the key responsibilities of an engineer are in each phase?
+3
+How would you approach quality control and safety compliance on a large construction or industrial project site, keeping in mind Samsung C&T's global project standards?
+4
+Samsung C&T has worked on major infrastructure projects such as the Burj Khalifa and petrochemical plants. How would you manage coordination between multiple engineering disciplines , civil, electrical, and mechanical , on such a complex project?
+5
+What do you understand about HSE (Health, Safety, and Environment) management systems, and why are they critical in the construction and engineering industry?
+6
+As a Graduate Engineer Trainee at Samsung C&T, you may be deployed across different countries and project sites. How do you plan to adapt to cross-cultural work environments and international project requirements?
+7
+What is your understanding of project scheduling tools such as Primavera P6 or MS Project, and how would you use them to track milestones on a large infrastructure project?
+8
+Samsung C&T increasingly focuses on sustainable and green construction practices. What do you know about green building certifications such as LEED or GRIHA, and how can engineering choices reduce a project's carbon footprint?
+
+Topics & Skills
+What the company tests
+31
+AutoCAD
+AutoCAD Electrical
+Aspen Plus
+E-TAP
+STAAD Pro
+Control Systems
+PID Controller
+Cascade Control
+Sensors and Instrumentation
+Power Electronics
+Transformers
+Motors and Generators
+Power Transmission
+Substations
+AVR
+Fluid Mechanics
+Bernoulli's Equation
+Heat Transfer
+Wastewater Treatment
+Plant Layout
+Structural Analysis
+Bending Moment Diagrams
+Truss Analysis
+RCC Design
+Flexible Pavement
+Iron-Iron Carbide Diagram
+Solar Power Systems
+Modeling and Simulation
+Plant Management
+Internship Experience
+Resume-based Questions
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+GET/TRAINEE
+Question Set 21
+GET/Trainee
+Similar questions asked at Siemens Energy
+Question Set 21
+GET/Trainee
+38
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Electrical Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+28
+1
+As you are a core electronics student, how would you contribute to Siemens Energy?
+2
+Tell me about your current project and how will you contribute to it?
+3
+What is a transformer and how does it work?
+4
+How does the welding process differ across its various types?
+5
+What are the different types of welding and where are they used?
+6
+What are the different types of heat treatment processes and what do they do?
+7
+Given the parameters of a motor, how would you calculate the current drawn by it?
+8
+Explain the Rankine cycle with its T-S diagram and major components?
+9
+What are the components of a transmission line?
+10
+What is power factor and why is it significant in electrical systems?
+11
+What is a fault in an electrical system and explain the physics behind it?
+12
+What is a PID controller and why is it preferred over other control mechanisms?
+13
+What is a thermocouple and how does it work?
+14
+What are the different types of electrical machines?
+15
+What are the three modes of heat transfer and how do they differ from each other?
+16
+What is a battery and how does a battery unit work?
+17
+What is the difference between a processor and a microcontroller?
+18
+Can you draw and explain the stress-strain curve for a material?
+19
+How are hexadecimal letters represented and what is the hexadecimal numbering system?
+20
+Can you explain the working of a rectifier circuit?
+21
+What are the different data types used in programming?
+22
+What is HVDC (High Voltage Direct Current) and what are its applications?
+23
+What is a transistor and how does it function as a switch or amplifier?
+24
+What is a capacitor and what are its uses in electronic circuits?
+25
+What are the different types of diodes and their specific applications?
+26
+What are the major renewable energy sources and how are they harnessed?
+27
+Can you explain the working principle of solar energy generation systems?
+28
+Can you walk me through the projects mentioned on your resume and the technical skills you applied?
+
+HR Questions
+Reported by students
+10
+1
+Tell me about yourself and your background?
+2
+Why do you want to join Siemens Energy specifically?
+3
+Where do you see yourself in the next five years?
+4
+How do you handle working under pressure or tight deadlines?
+5
+What are your key strengths and areas of improvement?
+6
+Tell me about yourself and your background.
+7
+Why do you want to work at Siemens Energy?
+8
+Where do you see yourself in the next five years?
+9
+How do you handle pressure or tight deadlines on a project?
+10
+What are your strengths and weaknesses?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Siemens Energy is heavily involved in gas turbine technology , can you explain the working principle of a gas turbine and how it differs from a steam turbine?
+2
+What is HVDC (High Voltage Direct Current) transmission and what are its advantages over HVAC transmission for long-distance power transfer?
+3
+Siemens Energy manufactures large generators , what are the key differences between synchronous and asynchronous generators and where is each used?
+4
+What do you understand by grid stability and what are the common methods used to maintain frequency and voltage in a power grid?
+5
+In the context of energy transition, how does Siemens Energy's role in offshore wind power generation differ from conventional thermal power plant operations?
+6
+What is a SCADA system and how is it used in monitoring and controlling energy infrastructure?
+7
+Explain the concept of insulation coordination in high-voltage equipment and why it is critical in substations?
+8
+What are the safety standards and certifications relevant to electrical equipment manufacturing, such as IEC or IEEE standards, and why are they important in an organization like Siemens Energy?
+
+Topics & Skills
+What the company tests
+14
+Transformers
+Power Factor
+Transmission Lines
+Electrical Machines
+Fault Analysis
+Rankine Cycle
+Thermodynamics
+Heat Treatment Processes
+Welding Processes
+PID Controller
+Control Systems
+Thermocouple
+Power Electronics
+Basic Electronics
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+Back
+GET
+Question Set 22
+GET
+Similar questions asked at SML Mahindra
+Question Set 22
+GET
+9
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Electrical and Computer Engineering
+
+Technical Questions
+Reported by students
+8
+1
+Explain the structure and working of a differential relay.
+2
+How does the Battery Management System (BMS) in an electric vehicle communicate with the motor?
+3
+What is power factor, and what is its typical value?
+4
+What is the role of a relay in converting high current to low current?
+5
+Explain the star-delta starter and its application.
+6
+Describe the working principle of an autotransformer.
+7
+Draw and explain the diagram of a three-phase induction motor.
+8
+Which protocol is used for communication in electric vehicles?
+
+HR Questions
+Reported by students
+1
+1
+Where are you from and what do your parents do?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is the time complexity of binary search, and how does it work?
+2
+Explain the difference between a stack and a queue.
+3
+What is the significance of PLC programming in industrial automation?
+4
+Describe the working principle of a synchronous motor.
+5
+Solve the following problem: If a train travels 60 km in 1 hour, how long will it take to travel 180 km?
+6
+Explain the concept of load balancing in power systems.
+7
+What is the purpose of a capacitor in an AC circuit?
+8
+How do you implement a linked list in C?
+
+Topics & Skills
+What the company tests
+16
+Differential Relay
+Battery Management System (BMS)
+Power Factor
+Relay
+Star-Delta Starter
+Autotransformer
+Three-Phase Induction Motor
+Electric Vehicle Communication Protocols
+PLC Programming
+Binary Search
+Stack
+Queue
+Synchronous Motor
+Load Balancing
+Capacitor
+Linked List
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 23
+GET/Trainee
+Similar questions asked at Tafe Motors
+Question Set 23
+GET/Trainee
+Full Time
+8
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+5
+1
+Explain the modes of heat transfer and give examples of each.
+2
+How do you read and interpret an engineering drawing?
+3
+What are the basic concepts of metallurgy and how do material properties affect manufacturing?
+4
+What are the 5S principles and how are they applied in a manufacturing environment?
+5
+What is Kaizen and how does it contribute to continuous improvement in production?
+
+HR Questions
+Reported by students
+3
+1
+Tell me about yourself and why you are interested in joining TAFE Motors as a Graduate Engineer Trainee.
+2
+Where do you see yourself in the next five years within the automotive or manufacturing industry?
+3
+How do you handle working under pressure or tight deadlines on the shop floor?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+TAFE Motors manufactures tractors and agricultural equipment , how do you think Finite Element Analysis (FEA) is applied in the structural design of tractor components?
+2
+What is the difference between ferrous and non-ferrous metals, and which would you prefer for a tractor chassis and why?
+3
+Can you explain the concept of Overall Equipment Effectiveness (OEE) and how it is measured on a production line?
+4
+What is the difference between preventive maintenance and predictive maintenance, and which is more suitable for a tractor assembly plant?
+5
+How does a hydraulic system work in a tractor, and what are the key components involved?
+6
+What is GD&T (Geometric Dimensioning and Tolerancing) and why is it important when reading manufacturing drawings?
+7
+Explain the concept of Value Stream Mapping and how it helps in identifying waste in a manufacturing process.
+8
+What safety standards and practices are critical to follow on an automotive or tractor manufacturing shop floor, and how would you ensure compliance as a GET?
+
+Topics & Skills
+What the company tests
+8
+FEA
+Heat Transfer
+Engineering Drawing
+Metallurgy
+5S Methodology
+Kaizen
+Manufacturing Processes
+Lean Manufacturing
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 24
+GET/Trainee
+Similar questions asked at Techsnitch
+Question Set 24
+GET/Trainee
+Internship
+6
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Trainee Engineer
+ELIGIBLE BRANCHES
+
+Master of Computer Application
+
+Technical Questions
+Reported by students
+3
+1
+What is inheritance in Python and what are its different types?
+2
+What are the differences between lists and tuples in Python?
+3
+How do you reverse a string in Python?
+
+HR Questions
+Reported by students
+3
+1
+Tell me about yourself and your background.
+2
+Why do you want to join Techsnitch as a Trainee Engineer?
+3
+Where do you see yourself professionally in the next three to five years?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What are Python decorators and can you give a practical example of how they are used?
+2
+How does memory management and garbage collection work in Python?
+3
+What is the difference between deep copy and shallow copy in Python?
+4
+Can you explain the concept of list comprehensions and when you would use them over a regular loop?
+5
+What are Python generators and how do they differ from regular functions?
+6
+How would you handle exceptions in Python and what is the difference between 'except', 'else', and 'finally' blocks?
+7
+What is the difference between '==' and 'is' operators in Python?
+8
+As a Trainee Engineer at Techsnitch, how would you approach debugging an issue in a production environment with limited information?
+
+Topics & Skills
+What the company tests
+5
+Python
+OOPs
+Data Structures
+String Manipulation
+Collections
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+GET/TRAINEE
+Question Set 25
+GET/Trainee
+Similar questions asked at Trident
+Question Set 25
+GET/Trainee
+25
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Chemical Engineering
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics and Computer Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics
+
+Technical Questions
+Reported by students
+17
+1
+What is a PLC and how is it used in industrial automation?
+2
+What is a DCS and how does it differ from a PLC?
+3
+Explain the basic process of how pulp is extracted in the paper industry.
+4
+How is paper manufactured in an industrial setting?
+5
+What is your favourite subject and explain a key concept from it?
+6
+Explain the working principle of an IC engine.
+7
+Where is the stress-strain relationship applied in practical engineering scenarios?
+8
+Explain the fundamentals of heat transfer and mass transfer.
+9
+What are the key concepts in Power System Protection?
+10
+What do you know about Smart Grid technology?
+11
+Explain the working principle of electrical machines.
+12
+What are the fundamentals of Power Electronics?
+13
+Describe your internship experience and the technical work you were involved in.
+14
+Walk me through your academic project and the engineering concepts you applied.
+15
+What do you know about Electric Vehicles and their battery design?
+16
+What is the difference between a sensor and a transducer?
+17
+What is a controller and what is its function in a control system?
+
+HR Questions
+Reported by students
+8
+1
+Tell me about yourself and your background.
+2
+Why do you want to join Trident as a Graduate Engineer Trainee?
+3
+How would you rate your communication skills and give an example of using them effectively?
+4
+Where do you see yourself in the next five years?
+5
+Are you comfortable relocating to the plant location assigned by Trident?
+6
+Tell me about yourself and walk me through your resume.
+7
+Why do you want to join Trident and what interests you about this role?
+8
+Where do you see yourself in the next five years?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Trident operates large-scale textile and paper manufacturing plants , how would you apply PLC-based automation to optimize a continuous paper manufacturing process?
+2
+Trident's facilities use high-capacity electrical systems. How would you perform a load flow analysis to ensure stable power distribution across a manufacturing plant?
+3
+Explain the role of SCADA systems in monitoring and controlling operations at an integrated manufacturing facility like Trident.
+4
+Trident uses co-generation and captive power plants at its facilities. What do you understand about captive power generation and its advantages for energy-intensive industries?
+5
+How would you approach preventive versus predictive maintenance for electrical equipment such as transformers and motors in a large textile or paper plant?
+6
+What are the common causes of motor failures in industrial environments and what protection schemes are used to safeguard them?
+7
+Trident is known for its sustainability initiatives. How can energy auditing and power factor correction help reduce energy costs in a manufacturing plant?
+8
+Describe how a Variable Frequency Drive works and why it is widely used for motor control in textile and paper industries.
+
+Topics & Skills
+What the company tests
+19
+PLC
+DCS
+Industrial Automation
+Power Systems
+Power System Protection
+Power Electronics
+Electrical Machines
+Heat Transfer
+Mass Transfer
+Smart Grid
+Electric Vehicles
+Battery Design
+Pulp and Paper Industry
+IC Engine
+Stress-Strain Analysis
+Core Electrical
+Communication Skills
+Resume-Based Projects
+Internship Experience
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+GET/TRAINEE
+Question Set 26
+GET/Trainee
+Similar questions asked at Varroc
+Question Set 26
+GET/Trainee
+Full Time
+16
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Electronics and Computer Engineering
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+11
+1
+What is the First Law of Thermodynamics and how is it applied in engineering systems?
+2
+What is the Second Law of Thermodynamics and what is entropy?
+3
+What is the difference between stress and pressure?
+4
+What is stress and strain, and what does Hooke's Law state?
+5
+What is a governor and what is its function in a mechanical system?
+6
+How does heat from the sun travel to the earth?
+7
+Explain how a potential divider circuit works.
+8
+Given a set of sensors, a power source, and a microcontroller, how would you connect them to control a bulb located in another building? Draw the block diagram and circuit diagram.
+9
+Estimate the power consumed by an electric vehicle over a typical day of usage.
+10
+Estimate the daily water consumption of a single water cooler in a college campus.
+11
+What problem did you face in the hardware implementation of your project and how did you resolve it?
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself and your background.
+2
+Why do you want to join Varroc as a Graduate Engineer Trainee?
+3
+Where do you see yourself in the next five years?
+4
+How do you handle working under pressure or tight deadlines?
+5
+Are you open to relocating or working across different Varroc plant locations?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Varroc is a major manufacturer of automotive lighting and electrical components , how do LED driver circuits work, and what are their advantages over conventional lighting systems?
+2
+What is the role of a CAN (Controller Area Network) bus in automotive electronics, and why is it preferred for in-vehicle communication?
+3
+Explain the working principle of a BLDC motor and why it is commonly used in electric vehicles and automotive applications.
+4
+What are the key differences between NPN and PNP transistors, and how would you decide which to use in an automotive switching circuit?
+5
+How does a Battery Management System (BMS) work, and what are the critical parameters it monitors in an EV battery pack?
+6
+What is PWM (Pulse Width Modulation) and how is it used to control motor speed or LED brightness in automotive systems?
+7
+Varroc supplies components to two-wheeler and passenger vehicle OEMs , what quality standards such as IATF 16949 or AEC-Q100 are relevant for automotive component manufacturing?
+8
+Explain the concept of IP ratings (e.g., IP67, IP69K) and why they are critical for automotive electrical and lighting components.
+
+Topics & Skills
+What the company tests
+14
+Thermodynamics
+Entropy
+Stress and Strain
+Hooke's Law
+Governor
+Heat Transfer
+Potential Divider Circuit
+Sensors and Microcontrollers
+Block Diagram Design
+Power Electronics
+Analog Circuits
+Electric Vehicles
+Guesstimation
+Project-Based Problem Solving
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 27
+GET/Trainee
+Similar questions asked at Vedanta Limited
+Question Set 27
+GET/Trainee
+Full Time
+12
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET - NON Mining
+ELIGIBLE BRANCHES
+
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+8
+1
+What is the difference between Specific Heat and Latent Heat?
+2
+Explain all the laws of Thermodynamics, and describe the Zeroth Law with an example.
+3
+How do an Air Conditioner and a Refrigerator work?
+4
+What is a refrigerant, and which gases are commonly used in ACs and refrigerators?
+5
+What is the main difference between a Lathe machine and a Milling machine?
+6
+What is a Boring operation, and how does it differ from a Drilling operation?
+7
+What is Least Count, and what are the least counts of a Vernier Caliper (manual and digital) and a Micrometer?
+8
+What is the function of a Differential in an automobile?
+
+HR Questions
+Reported by students
+4
+1
+Tell me about yourself and your academic background.
+2
+Which subject or paper is your favourite, and why?
+3
+Why do you want to join Vedanta Limited as a Graduate Engineer Trainee?
+4
+Where do you see yourself in the next five years within the manufacturing or mining industry?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Vedanta operates zinc, copper, aluminium, and iron ore plants , which of these metals has the highest electrical conductivity, and how is it refined from its ore?
+2
+What is the role of a Blast Furnace in the production of iron, and what are its key inputs and outputs?
+3
+Can you explain the process of electrolytic refining, and where is it applied in non-ferrous metal production such as copper or zinc?
+4
+What are the common causes of equipment failure in heavy industrial plants, and how can predictive maintenance help prevent them?
+5
+What is the significance of ISO 9001 and ISO 14001 certifications in a large mining and metals company like Vedanta?
+6
+How does a Hydraulic System work, and what are its key components used in heavy mining equipment?
+7
+What are the environmental and safety regulations (such as those set by MoEF or OSHA standards) that a Graduate Engineer Trainee must be aware of when working at a smelting or mining plant?
+8
+Explain the concept of Overall Equipment Effectiveness (OEE) and how it is calculated and improved in a manufacturing or processing plant.
+
+Topics & Skills
+What the company tests
+15
+Thermodynamics
+Refrigeration & Air Conditioning
+Refrigerants
+Manufacturing Processes
+Lathe Machine
+Milling Machine
+Boring Operation
+Drilling Operation
+Metrology
+Vernier Caliper
+Micrometer
+Least Count
+Automobile Engineering
+Differential Mechanism
+Heat Transfer
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+GET/TRAINEE
+Question Set 28
+GET/Trainee
+Similar questions asked at Yamaha
+Question Set 28
+GET/Trainee
+Full Time
+19
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Mechanical Engineering
+B.E. Mechatronics
+
+Technical Questions
+Reported by students
+14
+1
+What are the different types of tolerances in AutoCAD drawings and how are they applied?
+2
+Is automation a necessity over human labor in manufacturing, and what are its implications?
+3
+What are the basics of embedded programming, and how did you apply them in your projects?
+4
+Can you walk us through your egg boiler and peeler project in detail?
+5
+How did you implement path planning in your lawn mowing robot project?
+6
+How did you obtain the coordinates for the area mapping in your lawn mowing project?
+7
+How did you implement PID control in your project?
+8
+How did you use Excel in your project, and what kind of data analysis did you perform?
+9
+What are the uses of automation in the automotive sector?
+10
+What are the practical applications and uses of a self-balancing robot?
+11
+Can you explain the FEA analysis you performed and what conclusions you drew from it?
+12
+How do you ensure the quality of your product or deliverable in a project?
+13
+What did you learn from your projects and how did those learnings shape your engineering approach?
+14
+What are the key things to keep in mind while working in a team to ensure project success?
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself, your family background, and any leadership roles you have held.
+2
+Why do you want to join Yamaha, and what draws you to this organization specifically?
+3
+What are your key strengths and weaknesses?
+4
+How do you feel about your academic performance and CGPA so far?
+5
+Why did you choose mechanical engineering as your field of study?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Yamaha follows the 'Kando' philosophy , what does this mean to you, and how would you embody it as a Graduate Engineer Trainee?
+2
+How does Yamaha's production system compare to the Toyota Production System, and what lean manufacturing principles are common to both?
+3
+As a GET in Yamaha's manufacturing division, how would you approach reducing cycle time on an assembly line without compromising quality?
+4
+Can you explain the concept of Poka-Yoke and give an example of how it could be applied in a two-wheeler manufacturing process?
+5
+Yamaha places strong emphasis on kaizen , can you describe a situation where you identified an inefficiency and proposed a continuous improvement solution?
+6
+How would you use FMEA (Failure Mode and Effects Analysis) during the design or manufacturing phase of a motorcycle component?
+7
+What is the role of Statistical Process Control (SPC) in maintaining manufacturing quality, and how would you implement it on a production line?
+8
+Given that Yamaha is expanding its EV lineup, how do you see the transition from internal combustion engines to electric powertrains affecting manufacturing processes and skill requirements for engineers?
+
+Topics & Skills
+What the company tests
+15
+AutoCAD
+GD&T
+Tolerances
+Embedded Programming
+Arduino
+PID Control
+Path Planning
+FEA Analysis
+MATLAB
+Excel
+Automation
+Automotive Manufacturing
+Robotics
+Quality Control
+Teamwork
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
