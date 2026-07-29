@@ -8619,3 +8619,318 @@ TietPrep
 Placement Interview Prep Portal
 
 A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 1
+GET/Trainee
+Similar questions asked at Addverb Technologies
+Question Set 1
+GET/Trainee
+57
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GET
+ELIGIBLE BRANCHES
+
+B.E. Chemical Engineering
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics
+
+Technical Questions
+Reported by students
+43
+1
+What are the applications of belt drive, chain drive, and rope drive?
+2
+What is the time complexity of your solution for a given DSA problem?
+3
+How do you swap nodes in pairs in a linked list?
+4
+How do you detect a cycle in a linked list?
+5
+What is the difference between mild steel and stainless steel?
+6
+What is the difference between SQLite and MongoDB?
+7
+What is the difference between a vector and an array in C++?
+8
+How do you check whether a string or number is a palindrome?
+9
+How does Dijkstra's algorithm work and where is it applied?
+10
+How does Breadth-First Search (BFS) work on a graph?
+11
+How does the A* algorithm work, and how would you apply it to a path planning scenario?
+12
+How did you implement SLAM in your project?
+13
+How would you derive the kinematics of an inverted pendulum?
+14
+Given a goal point and several points in vector form, how would you write a C++ function to find the nearest point to the goal?
+15
+What are bearings and what are their types?
+16
+What are the core OOP concepts, and can you explain polymorphism including function overloading and overriding?
+17
+What are virtual functions and pure virtual functions in C++?
+18
+What is the difference between a raw pointer and a smart pointer in C++?
+19
+What is a PID controller and how does it work?
+20
+What is a spur gear and what are its disadvantages?
+21
+What is SQLite and when would you use it?
+22
+How did you implement your project, and what technical challenges did you face?
+23
+How does memory allocation work in C++, and what common memory allocation problems can occur?
+24
+What are the standard angles of projection used in engineering drawing?
+25
+What are the different types of fits used in engineering design?
+26
+What is Hooke's Law and what are its limitations?
+27
+What is the significance of projection angles in AutoCAD?
+28
+What is the difference between stress and strain?
+29
+Can you explain the stress-strain curve and its key regions?
+30
+What are the different types of tolerances used in mechanical design?
+31
+Can you explain your project and the design decisions you made?
+32
+How do you create a table with an auto-increment primary key in SQL?
+33
+What is the difference between JOIN and UNION in SQL?
+34
+Can you explain what a linked list is and how it works?
+35
+What are some commonly used Git commands and what do they do?
+36
+What is the GROUP BY clause in SQL, and can it be used without an aggregate function?
+37
+What is the difference between GROUP BY and ORDER BY in SQL?
+38
+How do you search for an element in a rotated sorted array?
+39
+How do you reverse a string using DSA techniques?
+40
+What are APIs, how do authentication tokens work, and what are some common API-related commands?
+41
+What is a RAG (Retrieval-Augmented Generation) model and how does it work?
+42
+Can you write a C++ program to solve a basic problem?
+43
+Can you walk us through your project and explain the technical decisions you made?
+
+HR Questions
+Reported by students
+14
+1
+Tell me about yourself.
+2
+What do you know about Addverb Technologies?
+3
+What is your family background?
+4
+What are your hobbies and interests?
+5
+How did you handle a significant problem or challenge during one of your projects?
+6
+What are your academic qualifications and background?
+7
+What are your strengths and weaknesses?
+8
+Why do you want to join Addverb Technologies?
+9
+What challenges did you face while working on your project and how did you overcome them?
+10
+Tell me about yourself.
+11
+Where are you currently located, and are you open to relocation?
+12
+What do you do in your free time?
+13
+Why do you want to join Addverb Technologies?
+14
+Walk me through your resume and highlight your key experiences.
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Addverb Technologies uses AMRs (Autonomous Mobile Robots) extensively , can you explain the difference between AMR and AGV navigation approaches and the trade-offs involved?
+2
+How does ROS handle communication between nodes, and what is the difference between a ROS topic, service, and action?
+3
+Addverb's robots operate in dynamic warehouse environments , how would you design a local obstacle avoidance system that works alongside a global path planner like A*?
+4
+Can you explain the concept of localization in mobile robotics and compare the approaches of particle filters (Monte Carlo Localization) and EKF-SLAM?
+5
+How would you tune the parameters of a PID controller for a differential drive robot, and what are the limitations of PID in non-linear systems?
+6
+Describe how you would implement a ROS2 node in C++ that subscribes to LiDAR sensor data and publishes the nearest obstacle distance.
+7
+Addverb focuses heavily on warehouse automation , how would you approach multi-robot coordination and collision avoidance when multiple AMRs share the same floor space?
+8
+What is the role of a costmap in ROS Navigation Stack, and how do the global and local costmaps differ in their function?
+
+Topics & Skills
+What the company tests
+20
+DSA
+C++
+OOP
+ROS
+SLAM
+Path Planning Algorithms
+Computer Vision
+Machine Learning
+Artificial Intelligence
+Python
+SQL
+SQLite
+MongoDB
+PID Control
+Robotics Kinematics
+Graph Algorithms
+Smart Pointers
+Machine Design
+Flutter
+System Design
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+Back
+GET/TRAINEE
+Question Set 2
+GET/Trainee
+Similar questions asked at Alstom
+Question Set 2
+GET/Trainee
+Full Time
+17
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Graduate Engineer Trainee
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Electrical Engineering
+
+Technical Questions
+Reported by students
+12
+1
+What is the difference between a Linked List and an Array?
+2
+Can you write code for binary search?
+3
+What are the differences between TCP/IP, OSI, and UDP protocols?
+4
+What are the key concepts in digital electronics?
+5
+What are the fundamentals of analog electronics?
+6
+What is a PLC (Programmable Logic Controller) and how does it work?
+7
+Can you explain the basics of power electronics?
+8
+What data structures have you worked with — such as Linked Lists, Arrays, Heaps, and Stacks?
+9
+Can you describe your academic or personal project and the technologies used?
+10
+What is Software Project Management and what are its key phases?
+11
+What are the fundamentals of electrical machines?
+12
+What programming languages are you proficient in, and what are the basics of C and C++?
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself and your academic background.
+2
+Why do you want to join Alstom as a Graduate Engineer Trainee?
+3
+Where do you see yourself in the next five years?
+4
+How do you handle working under pressure or tight deadlines?
+5
+Are you open to relocation to different project sites across India or abroad?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Alstom is a global leader in rail transport , can you explain the working principle of a traction motor used in electric locomotives?
+2
+What do you understand about SCADA systems and how are they used in railway signalling or power grid management?
+3
+Alstom works extensively with embedded systems , what is the difference between a microcontroller and a microprocessor, and where would you use each?
+4
+Can you explain the concept of regenerative braking and its significance in modern electric trains?
+5
+What is a Variable Frequency Drive (VFD) and how is it applied in industrial motor control systems?
+6
+Alstom follows IEC and EN standards for rail systems , are you familiar with any international engineering standards relevant to your field?
+7
+What is the role of a protection relay in a power distribution system, and can you name common types?
+8
+How does the European Train Control System (ETCS) differ from traditional signalling systems, and why is it significant for rail safety?
+
+Topics & Skills
+What the company tests
+19
+C Programming
+C++
+Data Structures
+Linked Lists
+Arrays
+Stacks
+Heaps
+Binary Search
+Computer Networks
+TCP/IP
+OSI Model
+UDP
+Digital Electronics
+Analog Electronics
+Power Electronics
+Electrical Machines
+PLC
+Software Project Management
+Programming Fundamentals
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
