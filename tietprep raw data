@@ -11748,3 +11748,3530 @@ TietPrep
 Placement Interview Prep Portal
 
 A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+HARDWARE/EMBEDDED
+Question Set 1
+Hardware/Embedded
+Similar questions asked at Continental Device India Limited(Cdil)
+Question Set 1
+Hardware/Embedded
+10
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Intern
+ELIGIBLE BRANCHES
+
+B.E. Electronics & Communication Engineering
+
+Technical Questions
+Reported by students
+6
+1
+Can you explain antenna wave propagation and describe the working principles of a wire antenna?
+2
+What is your experience with Embedded C programming, microcontrollers, and hardware interfacing?
+3
+How do you solve MOSFET circuits, and can you apply KVL and KCL to analyze circuit problems?
+4
+How would you approach logical reasoning problems involving numerical series and patterns?
+5
+How do you handle spatial reasoning problems in a technical context?
+6
+What is your proficiency in verbal aptitude and technical vocabulary relevant to electronics engineering?
+
+HR Questions
+Reported by students
+4
+1
+Why are you interested in joining Continental Device India Limited (CDIL) as an Embedded Systems Engineer?
+2
+Where do you see yourself professionally in the next three to five years within the embedded systems or semiconductor domain?
+3
+How do you handle working under tight deadlines on hardware or firmware projects?
+4
+Can you describe a challenging technical project you worked on and how you resolved the difficulties you faced?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+CDIL manufactures semiconductor devices such as diodes, transistors, and MOSFETs , can you explain the fabrication and characteristics of a bipolar junction transistor (BJT) and how it differs from a MOSFET?
+2
+How would you interface a peripheral sensor (e.g., I2C temperature sensor) with a microcontroller, and what steps would you take to write the driver code in Embedded C?
+3
+Given that CDIL works extensively with discrete semiconductor components, how do you select an appropriate MOSFET for a power switching application in terms of Vds, Rds(on), and gate threshold voltage?
+4
+Can you explain the boot process of an embedded system from power-on reset to application execution, including the role of the bootloader?
+5
+How do you approach real-time operating system (RTOS) task scheduling, and what is the difference between preemptive and cooperative scheduling in an embedded context?
+6
+CDIL supplies components for automotive and industrial applications , what design considerations are critical when developing embedded firmware for safety-critical or high-reliability systems?
+7
+How would you debug a hardware fault on a PCB using tools like an oscilloscope or logic analyzer, and what systematic approach would you follow?
+8
+Can you describe the role of PWM in motor control or power electronics applications, and how would you implement PWM generation using a microcontroller timer peripheral?
+
+Topics & Skills
+What the company tests
+13
+Embedded C
+Microcontrollers
+Hardware Interfacing
+Antenna Theory
+Wave Propagation
+MOSFET Circuits
+KVL/KCL
+System on Chip (SoC)
+Embedded Software
+Logical Reasoning
+Numerical Aptitude
+Spatial Reasoning
+Electronics Fundamentals
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+HARDWARE/EMBEDDED
+Question Set 2
+Hardware/Embedded
+Similar questions asked at Honeywell
+Question Set 2
+Hardware/Embedded
+Internship
+12
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Embedded role/Software
+ELIGIBLE BRANCHES
+
+B.E. Electrical Engineering
+
+Technical Questions
+Reported by students
+9
+1
+What is the working principle of a DC machine?
+2
+What is the difference between a feedback loop and a feedforward loop?
+3
+Explain the working principle of a transformer.
+4
+What are isolation transformers and where are they used?
+5
+What are inverters and how do they work?
+6
+Given a circuit, how would you optimize it using code?
+7
+What do you know about Airfield Ground Lighting (AGL) systems and their arrangements?
+8
+What type of lights are used in haze and foggy environments at airports?
+9
+Based on the job description provided, explain your understanding of the role and your responsibilities as an AGL Design/System Engineer.
+
+HR Questions
+Reported by students
+3
+1
+Your resume is focused on software, AI, and ML — why are you interested in a hardware-oriented role at Honeywell?
+2
+Tell us about your internship experience and how it relates to the role being offered.
+3
+Why do you want to join Honeywell specifically for a hardware/embedded role?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is a Constant Current Regulator (CCR) and why is it critical in Airfield Ground Lighting systems?
+2
+Explain the series circuit topology used in AGL systems and why it is preferred over parallel circuits for runway lighting.
+3
+What are the ICAO and FAA standards you are aware of that govern airfield lighting design and intensity levels?
+4
+How does a Variable Frequency Drive (VFD) work, and where might it be applied in an embedded power system at Honeywell?
+5
+What is the significance of isolation in AGL series circuits, and how do series isolation transformers protect individual lights from failure propagation?
+6
+Explain the difference between PAPI, VASI, and runway edge lighting systems used at airports.
+7
+How would you approach fault detection and diagnostics in an embedded control system for airfield lighting?
+8
+What communication protocols (such as CAN bus, Modbus, or RS-485) are commonly used in industrial embedded systems, and have you worked with any of them?
+
+Topics & Skills
+What the company tests
+10
+DC Machines
+Transformers
+Isolation Transformers
+Inverters
+Feedback & Feedforward Control
+Airfield Ground Lighting (AGL)
+Circuit Optimization
+Core Electronics
+Airport Lighting Systems
+Power Electronics
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+HARDWARE/EMBEDDED
+Question Set 3
+Hardware/Embedded
+Similar questions asked at Nvidia
+Question Set 3
+Hardware/Embedded
+20
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+System Software Engineering
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science and Business Systems
+
+Technical Questions
+Reported by students
+15
+1
+How does the memset() and malloc() function work internally in C?
+2
+What is a macro in C and how is it different from a function?
+3
+Explain how virtual functions work in C++ with an example.
+4
+What are interrupts and what are the different types of interrupts?
+5
+What is the difference between preemptive and non-preemptive scheduling algorithms?
+6
+Given a string, write a program to check if the parentheses in it are valid or invalid.
+7
+Write a program to generate all valid parentheses combinations for a given n using backtracking.
+8
+Write a program to reverse a linked list.
+9
+Explain what a DLL (Dynamically Linked Library) is and walk through a relevant code example.
+10
+What are the fundamentals of Operating Systems you are familiar with?
+11
+What is the output of the given code snippets involving pointers, arrays, strings, and memory addresses?
+12
+Walk through your projects in depth — explain the design decisions and challenges you faced.
+13
+How many permutations and combinations does the word COCOON have?
+14
+If there are N chocolates in a box and only one is caramel, what is the probability of picking the caramel chocolate?
+15
+Describe the two debugging scenarios you encountered and how you resolved them.
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself and your background.
+2
+Why do you want to work at Nvidia?
+3
+Where do you see yourself in the next five years?
+4
+Describe a challenging technical problem you faced and how you resolved it.
+5
+How do you prioritize tasks when working on multiple projects simultaneously?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How does CUDA's memory hierarchy (registers, shared memory, global memory, constant memory) affect GPU kernel performance, and how would you optimize memory access patterns?
+2
+Explain the difference between a process and a thread in the context of GPU programming , how does Nvidia's SIMT (Single Instruction, Multiple Thread) execution model differ from CPU threading?
+3
+What is cache coherence and how is it handled in multi-core or multi-GPU systems? How does Nvidia address this in its architectures like Hopper or Ampere?
+4
+How would you design a device driver for a peripheral on a Linux-based embedded system? Walk through the key components including initialization, interrupt handling, and cleanup.
+5
+What are PCIe lanes and how does the PCIe interface impact GPU-to-CPU bandwidth in Nvidia's system designs?
+6
+Explain the concept of DMA (Direct Memory Access) , how does Nvidia leverage DMA in its GPU architectures to improve data transfer efficiency between host and device memory?
+7
+What is the role of the NVIDIA Management Library (NVML) and how would you use it to monitor and manage GPU resources programmatically?
+8
+How would you debug a kernel panic or system hang in an embedded Linux environment running on Nvidia Jetson hardware? What tools and techniques would you use?
+
+Topics & Skills
+What the company tests
+20
+C
+C++
+OOPS
+Data Structures
+DSA
+Linked Lists
+Backtracking
+Pointers
+Memory Management
+OS Fundamentals
+CPU Scheduling
+Interrupts
+Computer Organization and Architecture
+Macros
+DLL
+Machine Learning
+Probability
+Permutation and Combination
+Debugging
+Problem Solving
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+HARDWARE/EMBEDDED
+Question Set 4
+Hardware/Embedded
+Similar questions asked at NXP Semiconductors
+Question Set 4
+Hardware/Embedded
+Internship
+38
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Digital
+Analog Engineer & Embedded Software
+ELIGIBLE BRANCHES
+
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+33
+1
+Write a program to toggle the k-th bit in a number using bit manipulation.
+2
+Write a program to write a hexadecimal value 0x12345678 at a given memory address 0x40000000 using pointers.
+3
+What is the difference between Verilog and SystemVerilog?
+4
+What is Static Timing Analysis (STA)?
+5
+What are setup time and hold time violations in STA?
+6
+What violations can occur in STA other than setup and hold time violations?
+7
+What are universal gates? Can you realize a D flip-flop using universal gates?
+8
+Design an asynchronous counter and explain how it differs from a synchronous counter.
+9
+Implement a given logic gate using a multiplexer (MUX).
+10
+Write the boolean expression for a MUX and provide its RTL code.
+11
+Implement an XOR gate using NAND gates.
+12
+How do you make an inverter using CMOS technology?
+13
+Explain the working of a MOSFET.
+14
+What is a transistor? What is a diode, and what are the different types of diodes?
+15
+Explain the working of a two-stage op-amp.
+16
+What are filters? Explain a bandpass filter.
+17
+What is the difference between a process and a thread?
+18
+What is a real-time operating system (RTOS)?
+19
+What is the difference between a mutex and a binary semaphore?
+20
+What is a semaphore and how is it used in process synchronization?
+21
+What are the different storage classes in C?
+22
+Explain the use of the volatile keyword in C.
+23
+What is the static keyword in C and how does it affect variable scope and lifetime?
+24
+What are function pointers in C and how are they used?
+25
+What is the difference between stack memory and heap memory?
+26
+What is the difference between malloc() and calloc()?
+27
+What is the difference between call by value and call by reference?
+28
+What are header files and how are they used in C?
+29
+Explain operator overloading and polymorphism in C++.
+30
+What is the super keyword and how is it used in object-oriented programming?
+31
+What are the different process scheduling algorithms in an operating system?
+32
+What is an ESP32 microcontroller and what are its key features?
+33
+Explain your projects and the technical decisions you made during implementation.
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself and your background.
+2
+Why do you want to work at NXP Semiconductors?
+3
+Where do you see yourself in the next five years?
+4
+What are your strengths and weaknesses?
+5
+Describe a challenging problem you faced in a project and how you resolved it.
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+NXP is a leader in automotive-grade microcontrollers like the S32K series. How would you ensure software reliability and functional safety (ISO 26262) in an embedded application for automotive use?
+2
+NXP's i.MX application processors use ARM Cortex-A cores. Can you explain the ARM Cortex-A vs Cortex-M vs Cortex-R architecture differences and their typical use cases?
+3
+How would you implement a CAN (Controller Area Network) communication protocol driver in embedded C for an NXP S32K microcontroller?
+4
+NXP produces secure element ICs and NFC chips. Explain how SPI and I2C communication protocols work and how you would choose between them for interfacing a peripheral.
+5
+In the context of NXP's power management ICs, how does a buck converter work, and what are the key design considerations for efficiency and stability?
+6
+Explain clock domain crossing (CDC) issues in digital design and how you would handle them during RTL design or STA sign-off.
+7
+NXP uses Model-Based Design and AUTOSAR in automotive ECU development. What is AUTOSAR, and how does it abstract hardware from application software in embedded systems?
+8
+How would you debug a hard fault exception on an ARM Cortex-M processor, and what registers would you inspect to identify the root cause?
+
+Topics & Skills
+What the company tests
+38
+CMOS
+MOSFET
+BJT
+Op-Amp
+Analog Circuits
+Filters
+Digital Design
+Combinational Logic
+Sequential Logic
+Flip-Flops
+Multiplexers
+Universal Gates
+Verilog
+SystemVerilog
+STA
+Setup/Hold Time
+RTL Coding
+Vivado
+Embedded C
+C Programming
+C++
+Pointers
+Bit Manipulation
+Storage Classes
+Volatile Keyword
+Function Pointers
+Memory Management
+RTOS
+Process vs Thread
+Mutex
+Semaphore
+Process Scheduling
+Operating Systems
+ESP32
+Embedded Systems
+Python
+DSA
+OOP
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+HARDWARE/EMBEDDED
+Question Set 5
+Hardware/Embedded
+Similar questions asked at Silicon Labs
+Question Set 5
+Hardware/Embedded
+Internship
+32
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+RTL Design Engineer Intern
+Verification Engineer Intern
+ELIGIBLE BRANCHES
+
+B.E. Electrical and Computer Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+31
+1
+What are the differences between a latch and a flip-flop?
+2
+What is the difference between a D flip-flop and a T flip-flop?
+3
+How does a D flip-flop work?
+4
+How does an SR flip-flop work?
+5
+What is a JK flip-flop and how does it differ from other flip-flop types?
+6
+Draw complete circuit diagrams for all types of flip-flops.
+7
+Write the RTL/Verilog code for a D flip-flop.
+8
+Write Verilog code for a latch and identify whether a given code snippet implements a latch or a flip-flop.
+9
+Explain synchronous reset and asynchronous reset, and what are the differences between them?
+10
+What is Clock Domain Crossing (CDC) and how is two flip-flop synchronization used to handle it?
+11
+What is Static Timing Analysis (STA) and how do you calculate setup time, hold time, and propagation delay?
+12
+Given a circuit with three flip-flops with known skew time and propagation delay, find the maximum allowable clock period.
+13
+What are the different types of binary codes such as BCD, Gray code, 2421 code, and One-Hot code, and when are they used?
+14
+Design a counter using SystemVerilog.
+15
+Design a 2:1 multiplexer using SystemVerilog.
+16
+Design a sequence detector for the pattern 10110 using an FSM in Verilog.
+17
+Explain the difference between Mealy and Moore state machines.
+18
+What is a FIFO? Explain its internal structure, read/write pointers, and full/empty conditions.
+19
+What is the difference between functions and tasks in Verilog/SystemVerilog?
+20
+What are sequential and non-sequential statements in Verilog, and what is the significance of the sensitivity list?
+21
+Explain CMOS logic and implement a NAND gate and NOR gate using CMOS transistors.
+22
+What is a MOS inverter and how does it function?
+23
+Explain the difference between PNP and NPN transistors.
+24
+Design a NOT gate using an XOR gate.
+25
+How do you convert a half adder into a full adder? Walk through the complete design thought process.
+26
+Perform a bitwise AND operation on a single 4-bit register and on two separate registers — what are the results?
+27
+Explain the AMBA protocol suite in detail, covering AHB and APB protocols, their transactions, communication mechanisms, and how you implemented an AHB-to-APB bridge in your project.
+28
+What is Design for Testability (DFT) and why is it important in digital design?
+29
+What is pipelining in computer architecture and how does it improve performance?
+30
+Given a Verilog code snippet, determine the output or identify potential issues.
+31
+Explain your resume project in detail, including design decisions, tools used, and challenges faced.
+
+HR Questions
+Reported by students
+1
+1
+Where do you see yourself professionally in the next five years, and in which engineering domain do you want to build your career?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Silicon Labs is known for its low-power wireless SoCs (Zigbee, Bluetooth, Wi-Fi). How would you approach designing an RTL block with aggressive power constraints, and what low-power design techniques such as clock gating and power gating would you apply?
+2
+How would you design and verify a parameterized synchronous FIFO in SystemVerilog, including the handling of corner cases like simultaneous read/write, full, and empty conditions?
+3
+Explain the Universal Verification Methodology (UVM) framework. How would you build a UVM testbench with a driver, monitor, scoreboard, and coverage collector for a simple AHB interface?
+4
+What is the difference between functional coverage and code coverage in RTL verification, and how do you ensure completeness of a verification plan for a digital IP block?
+5
+Silicon Labs designs mixed-signal ICs integrating analog and digital blocks. How do you handle timing closure and interference concerns at the boundary between analog and digital domains in an SoC?
+6
+Explain the concept of metastability in flip-flops. How do you calculate the Mean Time Between Failures (MTBF) for a CDC synchronizer, and what design choices improve it?
+7
+What are scan chains in DFT, and how does scan insertion affect the timing and area of a digital design? How would you debug a scan test failure?
+8
+In the context of RTL-to-GDS flow, explain the key steps from synthesis to place-and-route, and describe how timing violations found during STA are typically resolved through engineering change orders (ECOs) or netlist modifications.
+
+Topics & Skills
+What the company tests
+27
+Digital Design
+Combinational Circuits
+Sequential Circuits
+Flip-Flops
+Latches
+Multiplexers
+Verilog
+SystemVerilog
+VHDL
+RTL Design
+FSM
+CDC
+Static Timing Analysis
+Setup Time
+Hold Time
+FIFO
+CMOS Logic
+MOS Transistors
+AMBA Protocol
+AHB
+APB
+DFT
+Pipelining
+Computer Architecture
+Binary Codes
+VLSI
+VLSI Verification
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+Back
+HARDWARE/EMBEDDED
+Question Set 6
+Hardware/Embedded
+Similar questions asked at Vervesemi
+Question Set 6
+Hardware/Embedded
+Internship
+Full Time
+11
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Design Engineer
+ELIGIBLE BRANCHES
+
+B.E. Electronics & Communication Engineering
+
+Technical Questions
+Reported by students
+6
+1
+Explain the working of a CMOS inverter and derive its voltage transfer characteristics.
+2
+Implement a NAND gate using CMOS transistors.
+3
+Describe the characteristics of a MOSFET and explain its different regions of operation.
+4
+Draw and explain the circuit and output waveform of a D flip-flop for a given input sequence.
+5
+Explain the working of an Op-Amp and solve a given Op-Amp circuit problem.
+6
+Solve the given circuit analysis question involving analog or digital components.
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself and your background in electronics and hardware design.
+2
+Why are you interested in joining Vervesemi as a Design Engineer?
+3
+Where do you see yourself in the next 3 to 5 years in the semiconductor or VLSI industry?
+4
+How do you handle tight deadlines when working on complex hardware design problems?
+5
+Describe a challenging technical project you worked on and how you overcame the difficulties.
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is the significance of the aspect ratio (W/L) of a MOSFET in analog circuit design, and how does it affect transconductance?
+2
+Explain the concept of setup time and hold time in flip-flops and why they are critical in synchronous digital design.
+3
+How would you design a current mirror circuit using MOSFETs, and what are its limitations in practical IC design?
+4
+Describe the differences between static CMOS logic and dynamic CMOS logic, including their respective advantages and trade-offs.
+5
+What is metastability in digital circuits, and how is it handled in mixed-signal or high-frequency IC designs at a semiconductor company like Vervesemi?
+6
+Explain the concept of noise margin in digital logic and how CMOS technology achieves better noise immunity compared to TTL.
+7
+How does channel length modulation affect the output characteristics of a MOSFET, and how is it modeled in SPICE simulations?
+8
+Given a design requirement for a low-power analog block in a mixed-signal SoC, what key parameters and trade-offs would you consider during the design phase?
+
+Topics & Skills
+What the company tests
+10
+CMOS
+Analog Electronics
+Digital Electronics
+MOSFET
+Op-Amp
+Logic Gates
+Flip-Flops
+Sequential Circuits
+Combinational Circuits
+Semiconductor Devices
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+Back
+IT/OPERATIONS
+Question Set 1
+IT/Operations
+Similar questions asked at Boston Scientific
+Question Set 1
+IT/Operations
+17
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+IT Rotational Engineer
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+
+Technical Questions
+Reported by students
+10
+1
+What are the different data types in Python, and how would you define what a data type is?
+2
+What is the difference between Computer Engineering and coding/software development?
+3
+Which is better, Python or C++, and when would you choose one over the other?
+4
+What is the impact of AI on jobs over the next three years?
+5
+How is AI being applied in the medical industry, and what are its implications?
+6
+How would you implement React concepts in building a website?
+7
+Given a string, how would you find the shortest substring that can be removed so that the remaining string has all unique characters?
+8
+Describe the full-stack project you have worked on, including the tech stack you used.
+9
+What programming languages do you primarily use, and are they platform independent?
+10
+Do you have any inclination toward AI/ML, and have you explored it in any of your projects?
+
+HR Questions
+Reported by students
+7
+1
+Tell me about yourself, your background, and your hobbies.
+2
+Walk us through your experience at American Express and what you learned from it.
+3
+What is the role of a Product Manager, and how does it relate to your career interests?
+4
+Describe your involvement in a technical achievement and explain the tech stack behind it.
+5
+What has been your experience with non-technical fields such as societies, clubs, or competitions?
+6
+Are you genuinely passionate about what you do, and how does that reflect in your work?
+7
+What leadership qualities do you possess, and can you give an example where you demonstrated them?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Boston Scientific operates in a highly regulated medical device industry , how would you ensure data integrity and compliance with standards like FDA 21 CFR Part 11 or HIPAA in an IT operations role?
+2
+The TLDP (Technology Leadership Development Program) at Boston Scientific involves rotational assignments. How do you plan to adapt quickly across different technology domains and business units during your rotations?
+3
+Boston Scientific heavily invests in digital health and connected devices. How would you approach building or managing a secure IoT data pipeline for a medical device?
+4
+How would you handle a critical system outage in a hospital-facing application at Boston Scientific, where downtime could have patient safety implications?
+5
+Boston Scientific uses Agile and SAFe (Scaled Agile Framework) methodologies for product and IT delivery. Can you describe your understanding of Agile practices and how you have applied them in a project?
+6
+As part of the TLDP, you may be expected to present technical findings to senior leadership. How do you translate complex technical concepts into business-relevant insights for non-technical stakeholders?
+7
+Boston Scientific is expanding its use of data analytics to improve surgical outcomes. How would you use Python or SQL to analyze a large dataset of device performance metrics and surface actionable insights?
+8
+Given that Boston Scientific operates across 100+ countries, how would you approach IT operations challenges that arise from managing globally distributed systems and cross-cultural teams?
+
+Topics & Skills
+What the company tests
+14
+Python
+Data Types
+React.js
+Full Stack Development
+AI/ML
+AI in Healthcare
+String Algorithms
+Programming Fundamentals
+C++
+Resume-Based Discussion
+Communication Skills
+Leadership
+Group Discussion
+Aptitude
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+IT/OPERATIONS
+Question Set 2
+IT/Operations
+Similar questions asked at Hpe Juniper Networking
+Question Set 2
+IT/Operations
+Internship
+38
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+COO Internship
+MIST(AIDE) Internship
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science and Business Systems
+
+Technical Questions
+Reported by students
+30
+1
+What are the four pillars of Object-Oriented Programming?
+2
+Are device drivers considered part of the operating system?
+3
+What is the OSI model and what are its seven layers?
+4
+What is the difference between TCP and UDP?
+5
+What happens when a packet gets lost in TCP?
+6
+What is the difference between a thread and a process in an operating system?
+7
+What is context switching in an operating system and how does it work?
+8
+Explain memory management in an operating system.
+9
+What is the difference between RAM and ROM, and which semiconductors are used in each?
+10
+If the operating system is not working, will peripheral devices like the keyboard, mouse, and printer still function?
+11
+What is the difference between IDS and antivirus software?
+12
+What is Ethical Hacking?
+13
+What kind of protocols would be used in a messaging application?
+14
+Explain the working of switches, routers, DNS, and DHCP.
+15
+What is version control and how do you use it to avoid code conflicts?
+16
+Explain runtime polymorphism with an example.
+17
+Write a Python program to reverse a given mobile number.
+18
+Write a Python program to find all vowels in a string.
+19
+Write a Python program to separate even and odd digits from a phone number.
+20
+Write a Python program to print two words on the same line using two separate print functions.
+21
+Write code to generate the Fibonacci series.
+22
+Write a SQL query to retrieve a name from a table using a JOIN.
+23
+Write a program to check whether a given string is a palindrome.
+24
+Given meeting room occupancy data by hour, write code to identify the busiest hour.
+25
+Given a cache storing values at different keys and timestamps, write a program to fetch the value of a key at a specific timestamp.
+26
+Write a script to detect if a server has crashed and automatically restart it.
+27
+Write a Python program to print the nearest hundred and nearest fifty for a given number.
+28
+What have you read about a recent or emerging technology that interests you?
+29
+Explain your experience with data scraping and data preprocessing.
+30
+A train A of length 200 m starts 15 minutes earlier than train B of length 100 m; given their speeds, how long does it take train B to completely cross train A?
+
+HR Questions
+Reported by students
+8
+1
+What do you know about HPE Juniper Networks, and how would you explain it to a layman?
+2
+Do you see Juniper Networks as a great starting platform for young professionals, or as a place where one can build a long-term career?
+3
+Describe yourself as a person three years from now, both professionally and personally.
+4
+Where do you see your personal life in the next two years?
+5
+You have been given three tasks all with the same priority — how will you manage them?
+6
+Your teammate has also been assigned a task with the same priority as yours but is not working on it — how will you handle this situation?
+7
+Tell us about a project you worked on and why you chose it.
+8
+How did you feel after completing a challenging project or task?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+HPE Juniper Networks heavily uses the Junos OS , can you explain what Junos OS is and how it differs from traditional operating systems used in networking devices?
+2
+Juniper Networks is known for its intent-based networking and AI-driven operations under the Mist AI platform , what do you understand by AI-driven networking and how does it improve network operations?
+3
+Explain the concept of Software-Defined Networking (SDN) and how it relates to Juniper's approach to modern network architecture.
+4
+What is BGP (Border Gateway Protocol) and in what scenarios is it used over other routing protocols like OSPF?
+5
+HPE and Juniper merged to strengthen their edge-to-cloud networking portfolio , what do you understand by edge computing and why is it strategically important for enterprises?
+6
+In the context of network operations, what is observability and how do tools like telemetry and streaming data differ from traditional SNMP-based monitoring?
+7
+What is Zero Trust Network Access (ZTNA) and how does it differ from traditional VPN-based security models, especially relevant for Juniper's security portfolio?
+8
+As a COO or MIST AIDE intern, you may work with Juniper's Mist AI wireless platform , what are the key responsibilities you would expect in such a role, and how would you approach troubleshooting a wireless network outage using data-driven insights?
+
+Topics & Skills
+What the company tests
+25
+Computer Networks
+OSI Model
+TCP/IP
+DNS & DHCP
+Network Protocols
+Switches & Routers
+Cyber Security
+IDS
+Ethical Hacking
+Operating Systems
+Memory Management
+Context Switching
+Multithreading
+Process vs Thread
+OOPS
+Runtime Polymorphism
+Data Structures
+DSA
+Python
+SQL
+Network Programming
+Version Control
+Data Scraping
+Server Scripting
+Problem Solving
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+IT/OPERATIONS
+Question Set 3
+IT/Operations
+Similar questions asked at Ion Group
+Question Set 3
+IT/Operations
+6
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Technical Analyst
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+3
+1
+Explain all the pillars of Object-Oriented Programming and how you have applied them in your project or program.
+2
+What is the difference between runtime polymorphism and compile-time polymorphism? Explain with an example from your own code.
+3
+Write a program to calculate the area of a circle and a rectangle using OOP concepts such as classes and inheritance.
+
+HR Questions
+Reported by students
+3
+1
+Tell me about yourself and why you are interested in Ion Group's Leadership Development Program.
+2
+Where do you see yourself in the next three to five years, and how does this program align with your career goals?
+3
+Describe a situation where you demonstrated leadership skills in a team or project setting.
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Ion Group operates heavily in financial technology and capital markets , how comfortable are you working in a domain where software accuracy and reliability are mission-critical?
+2
+The Ion Group Leadership Development Program rotates participants across different business units. How do you adapt quickly when switching between teams or technology stacks?
+3
+Ion Group's products handle large volumes of real-time trading and financial data. How would you approach debugging a performance bottleneck in a time-sensitive financial application?
+4
+Explain the concept of a database transaction and why ACID properties are important in a financial trading system like those Ion Group builds.
+5
+Ion Group works with enterprise clients in banking and capital markets. How would you communicate a complex technical issue to a non-technical stakeholder or client?
+6
+Given that Ion Group's LDP involves both IT and operations responsibilities, how would you prioritize tasks if you were simultaneously managing a production incident and a scheduled deployment?
+7
+Ion Group uses a mix of legacy systems and modern technologies. Have you ever worked with or refactored legacy code, and how did you approach ensuring backward compatibility?
+8
+Describe how you would design a simple order management system for a financial exchange, identifying the key classes, relationships, and data flows involved.
+
+Topics & Skills
+What the company tests
+8
+OOPs
+Polymorphism
+Inheritance
+Encapsulation
+Abstraction
+Classes and Objects
+Java/C++
+Leadership
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+IT/OPERATIONS
+Question Set 4
+IT/Operations
+Similar questions asked at United Health Care
+Question Set 4
+IT/Operations
+5
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+TDP Intern
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+
+Technical Questions
+Reported by students
+2
+1
+Can you walk us through the projects you have worked on and explain your contributions?
+2
+What are the fundamental Data Structures and Algorithms concepts you are comfortable with?
+
+HR Questions
+Reported by students
+3
+1
+Why do you want to join UnitedHealth Group as a Technology Development Program (TDP) Intern?
+2
+How do you prioritize tasks when working on multiple projects simultaneously?
+3
+Tell us about yourself and your career aspirations in the technology domain.
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How would you design a scalable backend system to handle healthcare claims data for millions of patients while ensuring HIPAA compliance?
+2
+UnitedHealth Group works extensively with sensitive patient data , what practices and principles would you follow to ensure data privacy and security in your code?
+3
+Can you explain how you would apply machine learning techniques to predict patient readmission rates or optimize healthcare outcomes?
+4
+How would you approach building a full stack application that integrates real-time data from electronic health records (EHR) systems?
+5
+UnitedHealth Group's Optum division uses AI to streamline insurance and care delivery , can you describe a use case where AI/ML could reduce operational costs in a healthcare setting?
+6
+How would you handle data preprocessing and feature engineering for a healthcare dataset that has significant missing or inconsistent values?
+7
+What RESTful API design principles would you follow when building services that communicate between the front end and back end of a healthcare application?
+8
+How would you ensure high availability and fault tolerance in a healthcare IT system where downtime can have critical consequences for patients?
+
+Topics & Skills
+What the company tests
+8
+Full Stack Development
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Data Structures
+Algorithms
+Python
+SQL
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 1
+Marketing/Sales
+Similar questions asked at Ab Inbev
+Question Set 1
+Marketing/Sales
+6
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Category Management Intern
+ELIGIBLE BRANCHES
+
+B.Tech Biomedical Engineering
+B.E. Chemical Engineering
+B.E. Civil Engineering
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics
+B.Tech Biotechnology
+Master of Computer Application
+
+Technical Questions
+Reported by students
+4
+1
+Which tools did you use for data visualization in your project, and how did they help you achieve your goals?
+2
+Can you walk us through the projects mentioned on your resume?
+3
+What key conclusions or insights did you derive from your project analysis?
+4
+Why is your project relevant to this role at AB InBev?
+
+HR Questions
+Reported by students
+2
+1
+Why do you want to join AB InBev?
+2
+What is one of your weaknesses, and what steps have you taken to address it?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+AB InBev operates across multiple beer categories and price tiers. How would you approach assessing the performance of a specific SKU within a competitive retail category?
+2
+How would you use sales and consumption data to identify a whitespace opportunity for an AB InBev brand in a particular market or region?
+3
+If a retailer's shelf space allocation for AB InBev products is shrinking, what data-driven arguments would you make to negotiate better placement?
+4
+AB InBev uses tools like Nielsen and IRI for market intelligence. How would you interpret a market share report to recommend a corrective action plan?
+5
+How would you design a planogram recommendation for a key retail account to maximize both category growth and AB InBev's share of shelf?
+6
+Premiumization is a key strategic pillar for AB InBev. How would you pitch a premium beer brand to a retail chain that primarily caters to value-conscious consumers?
+7
+How would you build a demand forecasting model for a seasonal AB InBev product launch, and what variables would you prioritize?
+8
+If AB InBev is losing market share in a metro city to a craft beer competitor, what category management strategy would you propose to win back those consumers?
+
+Topics & Skills
+What the company tests
+8
+DBMS
+Data Analytics
+Power BI
+Python
+SQL
+Data Visualization
+Category Management
+Consumer Insights
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 2
+Marketing/Sales
+Similar questions asked at Bain
+Question Set 2
+Marketing/Sales
+4
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Customer Pricing Intern
+
+Technical Questions
+Reported by students
+2
+1
+How would you approach a guesstimate problem, such as estimating the market size of a given product or service in India?
+2
+Walk us through how you would structure and solve a business case study involving pricing strategy for a client.
+
+HR Questions
+Reported by students
+2
+1
+Why do you want to work at Bain & Company specifically, as opposed to other consulting firms?
+2
+What draws you to a career in consulting, and how does this role align with your long-term goals?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How would you determine the optimal pricing strategy for a product entering a highly competitive market with established players?
+2
+A retail client is losing market share despite maintaining competitive prices , how would you diagnose and address this problem?
+3
+Walk us through a profitability case: a Bain client's profits have declined by 20% over the last two years despite flat revenues. What could be causing this and how would you investigate?
+4
+How would you segment customers for a subscription-based SaaS company to help maximize revenue through differentiated pricing tiers?
+5
+Estimate the annual revenue loss a mid-sized airline experiences due to unsold seats, and suggest a data-driven approach to reduce it.
+6
+How would you use Python or SQL to analyze transaction-level sales data and identify pricing anomalies or discount leakage?
+7
+Bain's value proposition centers on 'Results, not reports' , can you give an example from your own experience where you drove a measurable outcome rather than just presenting analysis?
+8
+How would you approach a client who is resistant to changing their legacy pricing model despite clear data suggesting it is suboptimal?
+
+Topics & Skills
+What the company tests
+7
+MySQL
+Python Basics
+Guesstimates
+Case Studies
+Pricing Strategy
+Market Sizing
+Business Consulting
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+MARKETING/SALES
+Question Set 3
+Marketing/Sales
+Similar questions asked at Billion Basecamp
+Question Set 3
+Marketing/Sales
+Internship
+15
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Relationship Manager
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+10
+1
+What are the five pillars of finance?
+2
+How have you applied your knowledge of finance in your personal life?
+3
+What are the different types of investments?
+4
+What is the Price-to-Earnings (P/E) ratio and how is it used?
+5
+Have you worked on any finance-related projects? If so, please describe them.
+6
+What are statutory stocks?
+7
+What are ESOPs (Employee Stock Ownership Plans) and how do they work?
+8
+What are capital gains and how are they categorized?
+9
+What are tax credits and how do they differ from tax deductions?
+10
+Are you comfortable working in a finance-oriented role as a Relationship Manager?
+
+HR Questions
+Reported by students
+5
+1
+Tell me about yourself and why you are interested in the Relationship Manager role at Billion Basecamp.
+2
+Where do you see yourself in the next five years within the financial services or sales domain?
+3
+How do you handle rejection or setbacks when trying to acquire or retain clients?
+4
+Describe a situation where you had to communicate a complex financial concept to a non-technical audience.
+5
+What motivates you to pursue a career in sales and client relationship management?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How would you explain Billion Basecamp's investment or financial products to a first-time investor with no prior market knowledge?
+2
+As a Relationship Manager, how would you build and maintain a long-term client portfolio while consistently meeting sales targets?
+3
+What strategies would you use to identify and approach high-net-worth individuals (HNIs) as potential clients for Billion Basecamp?
+4
+How would you handle a situation where a client is dissatisfied with the returns on their investment and is considering withdrawing their funds?
+5
+What is your understanding of SEBI regulations and how would they impact your role as a Relationship Manager in a financial services firm?
+6
+How would you differentiate between recommending equity mutual funds versus direct equity investments to a risk-averse client?
+7
+Billion Basecamp operates in a competitive fintech and investment space , how would you position its offerings against competitors when speaking with a prospective client?
+8
+How would you use data or financial metrics to track the health of your client relationships and proactively address churn risk?
+
+Topics & Skills
+What the company tests
+9
+Finance Fundamentals
+Investment Types
+P/E Ratio
+Capital Gains
+Tax Credits
+ESOPs
+Statutory Stocks
+Client Relationship Management
+Financial Products
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 4
+Marketing/Sales
+Similar questions asked at Bluno
+Question Set 4
+Marketing/Sales
+Internship
+10
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Strategy & Ops
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Electrical and Computer Engineering
+
+Technical Questions
+Reported by students
+7
+1
+Walk us through your case study and explain your approach to the problem statement.
+2
+What are the gig and flex modes of delivery associates, and how do they differ?
+3
+If the CSAT score in a particular area is low, what could be the possible reasons and how would you address them?
+4
+What do you estimate the market share of Amazon Fresh to be, and how did you arrive at that figure?
+5
+What is A/B testing and what are its different types?
+6
+What are dynamic incentives, route batching, and route optimization in the context of last-mile delivery?
+7
+What would be your projected six-month revenue estimate for Amazon Fresh, and what assumptions drive that model?
+
+HR Questions
+Reported by students
+3
+1
+What are your two biggest weaknesses, and can you share a specific incident that illustrates each one?
+2
+Where do you see yourself in five years?
+3
+Are you looking for a tech or a non-tech role, and why?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Bluno operates in the quick-commerce and hyperlocal delivery space , how would you design a strategy to expand Bluno's operations into a new Tier-2 city in India?
+2
+How would you structure a cohort analysis to measure the retention rate of Bluno's delivery partners over a three-month period?
+3
+If Bluno wanted to increase its order frequency among existing customers, what growth levers would you prioritize and why?
+4
+How would you define and track the key performance indicators (KPIs) for a Strategy & Operations intern role at a hyperlocal delivery startup like Bluno?
+5
+Walk us through how you would build a demand forecasting model for Bluno to optimize inventory and staffing at a dark store level.
+6
+If Bluno's unit economics are negative in a particular zone, what operational or pricing changes would you recommend to move toward profitability?
+7
+How would you design an incentive structure for gig delivery partners that balances Bluno's cost constraints with partner retention and performance?
+8
+Given the competitive landscape of quick-commerce in India , with players like Blinkit, Zepto, and Swiggy Instamart , what differentiated positioning would you recommend for Bluno?
+
+Topics & Skills
+What the company tests
+12
+Case Study Analysis
+Market Sizing
+CSAT Metrics
+A/B Testing
+Route Optimization
+Route Batching
+Dynamic Incentives
+Last-Mile Delivery
+Revenue Estimation
+Go-To-Market Strategy
+Operations Strategy
+Gig Economy
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+MARKETING/SALES
+Question Set 5
+Marketing/Sales
+Similar questions asked at Carrier
+Question Set 5
+Marketing/Sales
+5
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Sales & Services Engineer
+ELIGIBLE BRANCHES
+
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+2
+1
+What are the basic principles and concepts of HVAC systems?
+2
+If you were in a sales role at Carrier, what kind of practices and approaches would be expected from you to drive sales effectively?
+
+HR Questions
+Reported by students
+3
+1
+Why do you want to work at Carrier in a Sales and Services Engineer role?
+2
+Where do you see yourself in the next five years within the HVAC or building solutions industry?
+3
+How do you handle rejection or a lost deal when working with a client?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Can you explain the difference between a chilled water system and a direct expansion (DX) system, and when would you recommend each to a client?
+2
+Carrier offers products across HVAC, refrigeration, and fire and security segments , how would you approach cross-selling these solutions to a commercial building client?
+3
+How would you calculate the cooling load requirement for a medium-sized commercial facility, and which Carrier product line would you recommend?
+4
+What is the significance of SEER and EER ratings in Carrier's air conditioning products, and how would you use these metrics to convince an energy-conscious buyer?
+5
+Carrier has been pushing its sustainability agenda with products like the AquaEdge 19DV centrifugal chiller , how would you position such a product to a client focused on reducing their carbon footprint?
+6
+How would you manage the after-sales service lifecycle for a large Carrier HVAC installation, and what KPIs would you track to ensure customer satisfaction?
+7
+In a competitive bid situation where Carrier's product is priced higher than a competitor's, what value-based selling arguments would you use to justify the premium?
+8
+How do building automation systems (BAS) and IoT-enabled monitoring, such as Carrier's i-Vu platform, add value to a client's facility management, and how would you demonstrate this during a sales pitch?
+
+Topics & Skills
+What the company tests
+8
+HVAC Systems
+Sales Techniques
+FPGA-based Tools
+Refrigeration Cycles
+Chiller Systems
+Building Automation
+Energy Efficiency
+Customer Relationship Management
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 6
+Marketing/Sales
+Similar questions asked at Convrse Spaces
+Question Set 6
+Marketing/Sales
+Internship
+6
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Pan- India Business Development
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+
+Technical Questions
+Reported by students
+3
+1
+Can you give a compelling sales pitch to make someone genuinely excited about using Convrse Spaces?
+2
+What strategies would you implement to grow the business, and which locations or markets would you target first?
+3
+How would you approach a situation where a potential client is hesitant to adopt a virtual/metaverse space solution?
+
+HR Questions
+Reported by students
+3
+1
+Tell us about yourself and your background.
+2
+Why are you interested in a Business Development role at Convrse Spaces?
+3
+How do your communication and problem-solving skills make you a strong fit for this role?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Convrse Spaces operates in the virtual and metaverse event space , how would you explain its value proposition to a traditional corporate client who is unfamiliar with immersive virtual environments?
+2
+How would you identify and approach potential B2B clients such as event organizers, universities, or enterprises for Convrse Spaces?
+3
+What metrics would you track to measure the success of a business development campaign for a virtual spaces platform like Convrse Spaces?
+4
+If a competitor like Hopin or Airmeet is already being used by a prospect, what differentiating arguments would you use to pitch Convrse Spaces instead?
+5
+How would you build and maintain a sales pipeline from cold outreach to deal closure for a SaaS-based virtual space product?
+6
+Given that virtual and metaverse platforms are still emerging in India, how would you handle market education as part of your sales process?
+7
+How would you use MS Excel or CRM tools to manage leads, track follow-ups, and report sales performance to your manager?
+8
+Design a brief go-to-market strategy to expand Convrse Spaces into a new city or industry vertical , what steps would you take in the first 30 days?
+
+Topics & Skills
+What the company tests
+8
+Business Development
+Sales Pitch
+Market Expansion
+MS Excel
+Communication Skills
+Problem Solving
+Marketing Strategy
+Lead Generation
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 7
+Marketing/Sales
+Similar questions asked at IBM
+Question Set 7
+Marketing/Sales
+9
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Customer Success Manager
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+
+Technical Questions
+Reported by students
+5
+1
+What types of databases exist, and what is the difference between NoSQL and relational databases?
+2
+How do you deploy a backend application and integrate its API with a frontend?
+3
+How does multithreading work, and how have you applied it in an application?
+4
+Can you walk us through your Real-Time Sentiment Analysis project, the technologies you used, and how you implemented it?
+5
+What challenges did you face during your projects or internships, and how did you overcome them?
+
+HR Questions
+Reported by students
+4
+1
+How would you handle a customer who is dissatisfied with the services provided by the company?
+2
+What is your understanding of the Customer Success Manager role and what it entails?
+3
+If your team disagrees with a decision you have made, how would you handle the situation?
+4
+What are your career goals for the next five years?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+IBM places a strong emphasis on its hybrid cloud and AI strategy , how would you position IBM's AI-powered solutions to a mid-sized enterprise client who is skeptical about adopting AI?
+2
+As a Customer Success Manager at IBM, how would you define and measure customer success for a client using IBM Cloud services?
+3
+How would you approach building a success plan for a new enterprise client onboarding onto IBM's platform for the first time?
+4
+IBM often deals with large-scale digital transformation projects , how would you manage a situation where a client's internal resistance is slowing down the adoption of a solution you are responsible for?
+5
+How would you identify upsell or cross-sell opportunities within an existing IBM client account without compromising the trust of the customer relationship?
+6
+Describe how you would use data and product usage metrics to proactively identify a customer who is at risk of churning from an IBM service.
+7
+IBM operates across highly regulated industries such as banking and healthcare , how would you tailor your customer success approach when working with clients in these sectors?
+8
+How would you collaborate with IBM's technical support, sales, and product teams to resolve a critical issue escalated by a key enterprise client?
+
+Topics & Skills
+What the company tests
+16
+Data Structures and Algorithms
+Python
+C++
+Node.js
+React.js
+REST API Design
+MongoDB
+MySQL
+Backend Development
+Frontend Integration
+Git
+GitHub
+Multithreading
+NoSQL vs Relational Databases
+Sentiment Analysis
+Project Experience
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+MARKETING/SALES
+Question Set 8
+Marketing/Sales
+Similar questions asked at Mycaptain
+Question Set 8
+Marketing/Sales
+Full Time
+5
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Business Growth Associates
+ELIGIBLE BRANCHES
+
+Master of Computer Application
+
+Technical Questions
+Reported by students
+3
+1
+How would you acquire new customers for MyCaptain without reaching out to college officials such as HR personnel or professors?
+2
+How would you explain the color red to a person who has been blind since birth?
+3
+Why do you want to transition into this marketing/sales role given your prior experience in technical roles?
+
+HR Questions
+Reported by students
+2
+1
+Are you willing to relocate to Bangalore for this role?
+2
+Tell us about yourself and your background.
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+MyCaptain focuses on passion-based learning and career programs for students , how would you pitch MyCaptain's offerings to a college student who is skeptical about online skill courses?
+2
+If you were given a target of onboarding 50 students for a MyCaptain cohort in one month, what grassroots or guerrilla marketing strategies would you use?
+3
+How would you use social media platforms like Instagram or LinkedIn to drive student enrollment for a MyCaptain course with zero paid advertising budget?
+4
+MyCaptain operates in a competitive EdTech space alongside platforms like Skillshare and Coursera , how would you differentiate MyCaptain's value proposition to a potential student?
+5
+How would you identify and approach micro-influencers or student community leaders to become brand ambassadors for MyCaptain on their campuses?
+6
+Describe how you would build and maintain a sales pipeline using Excel or a CRM tool to track student leads from first contact to enrollment.
+7
+If a prospective student is interested in a MyCaptain program but is concerned about the fee, what objection-handling techniques would you use to convert them?
+8
+How would you measure the success of a campus outreach campaign for MyCaptain, and which key performance indicators would you track?
+
+Topics & Skills
+What the company tests
+7
+Excel
+Customer Acquisition
+Sales Strategy
+Business Development
+Communication Skills
+Career Transition
+EdTech Industry
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 9
+Marketing/Sales
+Similar questions asked at Synfara Tech
+Question Set 9
+Marketing/Sales
+Internship
+Full Time
+7
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Business Growth
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics
+
+Technical Questions
+Reported by students
+4
+1
+How do you manage responsibilities in a non-technical role coming from a technical background?
+2
+How would you pitch and sell a product to a potential customer?
+3
+What is your approach to shifting from a technical role to a non-technical business role?
+4
+What is your perspective on women empowerment in the workplace and how does it relate to business growth?
+
+HR Questions
+Reported by students
+3
+1
+Why do you want this role at Synfara Tech?
+2
+What skills do you possess that would be useful to our company?
+3
+Tell me about yourself.
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How would you identify and approach potential B2B clients for Synfara Tech's services?
+2
+Describe a strategy you would use to grow a new market segment for a tech startup like Synfara Tech.
+3
+How would you use a CRM tool to manage your sales pipeline and track client interactions?
+4
+What metrics would you track to measure the success of a business growth campaign?
+5
+How would you handle a situation where a client is unhappy with the product or service and is considering leaving?
+6
+How would you qualify a sales lead and decide whether to pursue it further?
+7
+What is your approach to building and maintaining long-term relationships with key accounts?
+8
+How would you design a go-to-market strategy for a new product feature being launched by Synfara Tech?
+
+Topics & Skills
+What the company tests
+7
+Communication
+CRM
+Client Management
+Sales Pitching
+Business Development
+Lead Generation
+Career Transition
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 10
+Marketing/Sales
+Similar questions asked at Unlox
+Question Set 10
+Marketing/Sales
+Internship
+7
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+BD Associate
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Electrical and Computer Engineering
+B.E. Electronics & Communication Engineering
+
+Technical Questions
+Reported by students
+3
+1
+How would you convince a customer to buy an online course when similar content is available for free on YouTube?
+2
+If a customer raises concerns about the price of a product, how would you retain them and justify the cost?
+3
+How would you handle a customer who is confused between two similar products and help them make a decision?
+
+HR Questions
+Reported by students
+4
+1
+Tell us about yourself.
+2
+Why do you want to join Unlox?
+3
+Do you have any questions for us about the company or the role?
+4
+How would you convince a client who is getting a similar product or service for free from another source?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Unlox operates in the ed-tech and access management space , how would you position its value proposition to a price-sensitive student or parent?
+2
+How would you identify and approach potential B2B clients such as coaching institutes or schools for a partnership with Unlox?
+3
+If you were given a monthly sales target as a Business Development Associate at Unlox, what step-by-step strategy would you follow to achieve it?
+4
+How would you build and maintain a sales pipeline using CRM tools or Excel for tracking leads at different stages of conversion?
+5
+A coaching institute owner says they already use a competitor platform , how would you differentiate Unlox and persuade them to switch?
+6
+How would you leverage social media or digital outreach to generate leads and build brand awareness for Unlox in a new city or market?
+7
+Describe how you would handle a situation where a customer purchases a product but is dissatisfied and demands a refund , how would you turn this into a retention opportunity?
+8
+As a Business Development Associate, how would you gather and relay customer feedback to the product team to help improve Unlox's offerings?
+
+Topics & Skills
+What the company tests
+10
+Sales Techniques
+Communication Skills
+Objection Handling
+Customer Retention
+Negotiation Skills
+Persuasion Techniques
+Product Knowledge
+Problem-Solving
+Customer Handling
+Microsoft Excel
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 11
+Marketing/Sales
+Similar questions asked at Urban Company
+Question Set 11
+Marketing/Sales
+6
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Category Manager
+ELIGIBLE BRANCHES
+
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+3
+1
+How would you solve a water jug type puzzle similar to those found on GeeksforGeeks?
+2
+How would you estimate the number of dosas sold at a restaurant in a day?
+3
+Can you write a basic SQL query to retrieve and filter data from a table?
+
+HR Questions
+Reported by students
+3
+1
+Walk me through your resume and the projects you have worked on.
+2
+Why do you want to work at Urban Company as a Category Manager?
+3
+How do your past experiences make you a good fit for a category management role?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Urban Company operates in multiple service categories such as beauty, home repairs, and appliance servicing , how would you prioritize which category to expand next in a Tier-2 city?
+2
+If the average order value for Urban Company's salon-at-home category drops by 15% month-over-month, how would you diagnose the root cause and what actions would you take?
+3
+How would you design a pricing strategy for Urban Company's services in a city where both organized and unorganized local competitors are significantly cheaper?
+4
+Urban Company uses a partner (service professional) model , how would you balance supply-side quality control with demand-side customer satisfaction as a Category Manager?
+5
+How would you estimate the total addressable market for Urban Company's home cleaning services in a metro city like Bengaluru?
+6
+If Urban Company wanted to launch a new pest control service category, what go-to-market strategy would you recommend and what KPIs would you track in the first 90 days?
+7
+How would you use data to identify which Urban Company service professionals are at risk of churning, and what retention initiatives would you propose?
+8
+Urban Company recently expanded internationally , what key factors would you evaluate before deciding which service categories to launch first in a new market like the UAE or Australia?
+
+Topics & Skills
+What the company tests
+7
+Case Study
+Guesstimates
+SQL
+Resume & Projects
+Market Sizing
+Category Management
+Business Fundamentals
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 12
+Marketing/Sales
+Similar questions asked at Vegazva
+Question Set 12
+Marketing/Sales
+Internship
+10
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+GMC Trainee
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Electrical Engineering
+B.E. Electrical and Computer Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+5
+1
+What frameworks did you use in your projects and why did you choose them?
+2
+Which programming languages are you proficient in and how have you applied them?
+3
+Can you walk us through your projects and the technical decisions you made?
+4
+Have you worked with WebRTC or Socket.io, and how did you implement them in your projects?
+5
+Do you have experience with AutoCAD, and how have you used it professionally or academically?
+
+HR Questions
+Reported by students
+5
+1
+Tell us about your family background.
+2
+What are your hobbies and personal interests?
+3
+Why are you interested in this specific role?
+4
+Are you willing to relocate for this position?
+5
+How do you see your engineering background contributing to a sales or commercial role?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How would you approach understanding the technical specifications of Vegazva's products in order to pitch them effectively to potential clients?
+2
+Describe a situation where you had to use both your technical knowledge and communication skills to close a deal or convince a stakeholder.
+3
+How do you plan to build and manage a sales pipeline for industrial or B2B clients in Vegazva's target markets?
+4
+What strategies would you use to identify and qualify new business opportunities for Vegazva in a competitive market?
+5
+How would you handle a situation where a client raises a technical objection about a product that you cannot immediately answer?
+6
+Given that Vegazva operates in a technical domain, how would you bridge the gap between engineering teams and commercial clients during negotiations?
+7
+How do you stay updated on industry trends and competitor offerings, and how would you use that knowledge in a GMC Commercial role?
+8
+Can you describe your approach to meeting sales targets while maintaining long-term client relationships?
+
+Topics & Skills
+What the company tests
+8
+AutoCAD
+Sales
+WebRTC
+Socket.io
+Backend Programming
+Project-Based Skills
+Leadership
+Resume-Based Experience
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+
+Back
+MARKETING/SALES
+Question Set 13
+Marketing/Sales
+Similar questions asked at Virtubox
+Question Set 13
+Marketing/Sales
+Internship
+3
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Trainee - Client Success
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+
+Technical Questions
+Reported by students
+2
+1
+How do you use aggregate functions and logical conditions in Excel to analyze data?
+2
+What is the difference between VLOOKUP and XLOOKUP in Excel, and when would you use each?
+
+HR Questions
+Reported by students
+1
+1
+Can you give a brief introduction about yourself, your background, and why you are interested in this role?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How would you handle a situation where a client is unhappy with the product or service and is considering churning?
+2
+What strategies would you use to ensure high client retention and long-term satisfaction as a Client Success Manager?
+3
+How do you prioritize and manage multiple client accounts simultaneously while ensuring each client receives adequate attention?
+4
+Can you walk us through how you would onboard a new client onto a SaaS or virtual solutions platform like Virtubox?
+5
+How would you identify upselling or cross-selling opportunities within an existing client account without damaging the relationship?
+6
+What key performance indicators (KPIs) would you track to measure the success of your clients and your own performance in a Client Success role?
+7
+How would you use data from Excel reports or CRM dashboards to identify at-risk clients and proactively address their concerns?
+8
+Describe how you would build a strong long-term relationship with a B2B client in a competitive market environment.
+
+Topics & Skills
+What the company tests
+8
+Microsoft Excel
+Microsoft Word
+VLOOKUP
+XLOOKUP
+Aggregate Functions
+Logical Functions
+Data Analysis
+Client Communication
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+MARKETING/SALES
+Question Set 14
+Marketing/Sales
+Similar questions asked at Viscadia
+Question Set 14
+Marketing/Sales
+7
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Intern
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+4
+1
+Can you walk us through your approach to solving a business case study?
+2
+How would you solve a guesstimate question, such as estimating the market size of a given product?
+3
+Can you discuss a project from your CV and explain the analysis or methodology you used?
+4
+How would you approach a puzzle or logical reasoning problem under time pressure?
+
+HR Questions
+Reported by students
+3
+1
+Why are you interested in an internship with Viscadia in the Marketing and Sales domain?
+2
+How do you handle working under pressure or tight deadlines?
+3
+Can you describe a situation where you had to communicate a complex idea to a non-technical audience?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Viscadia works heavily in the pharmaceutical and life sciences consulting space , how would you estimate the market potential for a new oncology drug being launched in India?
+2
+How would you analyze a competitor's pricing strategy in the pharmaceutical market and recommend a positioning strategy for Viscadia's client?
+3
+If a pharma client's sales have dropped 15% over two quarters, what framework would you use to identify the root cause and propose actionable recommendations?
+4
+How would you build a go-to-market strategy for a specialty biotech product targeting a niche physician segment?
+5
+Viscadia often works with data-driven marketing insights , how comfortable are you with using Excel or similar tools to derive trends from large sales datasets, and can you give an example?
+6
+How would you segment a pharmaceutical market and identify the most attractive customer personas for a client launching a new chronic disease management product?
+7
+Given that Viscadia serves global life sciences clients, how would you adapt a marketing strategy developed for the US market to suit the Indian pharmaceutical landscape?
+8
+How would you measure the ROI of a marketing campaign run by a pharmaceutical company targeting healthcare professionals, and what KPIs would you track?
+
+Topics & Skills
+What the company tests
+10
+Analytical Thinking
+Business Case Analysis
+Guesstimation
+Excel
+Pharmaceutical Market Behaviour
+Product Analysis
+Presentation Skills
+Verbal Communication
+Mathematics & Computation
+CV-Based Discussion
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+MARKETING/SALES
+Question Set 15
+Marketing/Sales
+Similar questions asked at Webcue
+Question Set 15
+Marketing/Sales
+Internship
+33
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Media Buyer Trainee
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Electronics & Communication Engineering
+Master of Computer Application
+
+Technical Questions
+Reported by students
+25
+1
+What are the four pillars of Object-Oriented Programming?
+2
+What is polymorphism and how is it implemented in C++?
+3
+What is the difference between a struct and a class in C++?
+4
+What is function overloading and how does it work?
+5
+What is inheritance ambiguity and how is it resolved?
+6
+What is a null pointer and what are its implications?
+7
+What is the difference between stack and heap memory?
+8
+What is the difference between call by reference and call by value?
+9
+What is multi-threading and can you explain a relevant DSA algorithm?
+10
+What are the types of JOINs in SQL and how are they used?
+11
+Write an SQL query to fetch the last 5 records from a table.
+12
+Why would you use SQL over MongoDB for a given use case?
+13
+What is the difference between Java and JavaScript?
+14
+What is a callback function in JavaScript?
+15
+What is Redux Toolkit and why is it used?
+16
+What is JWT and can you explain the flow of a MERN stack website?
+17
+What are React hooks and how are they used?
+18
+Which Python libraries have you used and for what purposes?
+19
+What is OpenCV and what can it be used for?
+20
+What do you understand by machine learning?
+21
+What is digital marketing and what are its key components?
+22
+Can you explain the tech stack you used in your project and why you chose it?
+23
+Walk me through your project — how did you build it and why did you choose a specific language or framework?
+24
+What tools and skills related to digital marketing are you familiar with?
+25
+What is Google Analytics and how is it used in performance marketing?
+
+HR Questions
+Reported by students
+8
+1
+Tell me about yourself.
+2
+What are your key strengths and weaknesses?
+3
+Where do you see yourself in the next few years?
+4
+What do you know about Webcue as a company?
+5
+Why do you want to work in digital marketing, and do you have any prior experience in this field?
+6
+Why are you applying for a non-technical role when your resume is more technical in nature?
+7
+Tell me about your involvement in societies or community responsibilities.
+8
+Why do you want to join this company specifically?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is performance marketing and how do metrics like CPC, CPM, CPA, and ROAS help evaluate campaign success?
+2
+How would you set up and optimize a paid ad campaign on Google Ads or Meta Ads for a client at Webcue?
+3
+What is the difference between paid search and paid social advertising, and when would you recommend each?
+4
+How do you use audience segmentation and retargeting strategies to improve conversion rates in digital campaigns?
+5
+What is A/B testing in the context of digital marketing, and how would you use it to optimize ad creatives or landing pages?
+6
+How would you interpret a drop in CTR (Click-Through Rate) mid-campaign and what steps would you take to address it?
+7
+What are some key KPIs you would track for a Media Buyer role, and how would you present campaign performance reports to a client?
+8
+How does attribution modelling work in digital marketing, and why is choosing the right attribution model important for a performance marketing campaign?
+
+Topics & Skills
+What the company tests
+21
+OOPS
+C++
+SQL
+JavaScript
+React.js
+Redux Toolkit
+MERN Stack
+JWT
+Python
+Pandas
+Matplotlib
+Machine Learning
+LangChain
+OpenCV
+Digital Marketing
+Performance Marketing
+Google Analytics
+Data Analytics
+Media Buying
+Resume-based Questions
+Projects
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+MARKETING/SALES
+Question Set 16
+Marketing/Sales
+Similar questions asked at Wheelseye Technology India Private Limited
+Question Set 16
+Marketing/Sales
+Internship
+5
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Ad sales business development
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+
+Technical Questions
+Reported by students
+3
+1
+What do you know about Wheelseye Technology and its core business offerings?
+2
+Why did you choose a sales role over a technical role given your engineering background?
+3
+How would you explain CPC, CTR, and ROI to a client who is new to digital advertising?
+
+HR Questions
+Reported by students
+2
+1
+Can you introduce yourself and walk us through your background?
+2
+Tell us about your family background and what has shaped your professional aspirations?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Wheelseye serves the logistics and trucking industry , how would you pitch an ad sales product to a fleet owner or a freight broker who has never invested in digital advertising before?
+2
+If a trucking company client says your CPC rates are too high compared to a competitor, how would you handle the objection and close the deal?
+3
+How would you identify and qualify a high-potential lead in the logistics or transport sector using LinkedIn and other prospecting tools?
+4
+Describe how you would manage a sales pipeline of 50+ prospects simultaneously , what tools and processes would you use to prioritize follow-ups?
+5
+Wheelseye operates in a niche B2B market targeting truck operators and logistics companies. How would you tailor your communication style differently for a small fleet owner versus a large logistics enterprise?
+6
+If a client's ad campaign on Wheelseye's platform is underperforming in terms of CTR, what steps would you take to diagnose the issue and retain the client?
+7
+How would you use CRM data from Salesforce or Zoho to forecast your monthly sales targets and report pipeline health to your manager?
+8
+What metrics would you track in the first 90 days of your Ad Sales Development role at Wheelseye to measure your own performance and contribution?
+
+Topics & Skills
+What the company tests
+16
+Lead Generation
+Sales Pipeline Management
+CRM Tools
+Salesforce
+HubSpot
+Zoho CRM
+LinkedIn Outreach
+Prospecting
+Negotiation
+Client Relationship Management
+Digital Advertising Metrics
+CPC
+CTR
+ROI
+Excel
+Google Sheets
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+NETWORK/TELECOM/SUPPORT
+Question Set 1
+Network/Telecom/Support
+Similar questions asked at Airtel
+Question Set 1
+Network/Telecom/Support
+32
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Young Technical Leader (YTL) - Trainee
+ELIGIBLE BRANCHES
+
+B.Tech Biotechnology
+B.E. Chemical Engineering
+B.E. Civil Engineering
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+
+Technical Questions
+Reported by students
+28
+1
+Can you explain your capstone project and the key challenges you faced?
+2
+Walk me through your resume projects and the technologies you used.
+3
+Why did you make this project and what problem does it solve?
+4
+Draw and explain a basic communication system block diagram.
+5
+Draw an NPN transistor and explain its working.
+6
+Draw the OSI model and explain the role of each layer.
+7
+Draw the circuit diagram of an inverter.
+8
+What are the advantages of sampling in digital communication?
+9
+What is sampling and why is it used in signal processing?
+10
+What is a modulating wave and why do we use it?
+11
+What is QAM (Quadrature Amplitude Modulation) and how does it work?
+12
+What is QPSK and how does it differ from other modulation schemes?
+13
+What are the different modulation techniques used in communication systems?
+14
+What is an antenna and how does it work internally?
+15
+Explain the internal architecture of an antenna.
+16
+What is the electromagnetic spectrum and how is it used in telecommunications?
+17
+What is the difference between interference and intermodulation distortion?
+18
+How do diodes work and what are their key applications?
+19
+What is the difference between flip-flops and registers?
+20
+What are transducers and what are their types?
+21
+What networking devices are present in a mobile phone and what are their roles?
+22
+Explain how a network works from end to end.
+23
+What is the alternate name of the Data Link Layer in the OSI model?
+24
+What courses related to communication have you studied and which was your favorite?
+25
+How do you relate your ECE background to a role at Airtel?
+26
+What field of electronics or communication interests you the most?
+27
+What is RAG (Retrieval-Augmented Generation) architecture and how does it work?
+28
+Explain how networking concepts can be integrated with machine learning.
+
+HR Questions
+Reported by students
+4
+1
+Why do you want to join Airtel?
+2
+Why do you want to work in the telecom and networking sector?
+3
+Where do you see yourself in 5 years?
+4
+Are you willing to work in rotational shifts or relocate as required by the role?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Airtel operates on 4G LTE and is expanding its 5G network , can you explain the key architectural differences between 4G LTE and 5G NR (New Radio)?
+2
+What is the concept of network slicing in 5G, and how can it benefit a telecom operator like Airtel in serving diverse customer segments?
+3
+Airtel uses both FDD (Frequency Division Duplex) and TDD (Time Division Duplex) spectrum bands , can you explain the difference and when each is preferred?
+4
+What is a Base Transceiver Station (BTS) and how does it communicate with the core network in a cellular architecture?
+5
+Explain the concept of handover (handoff) in mobile networks , what are the different types and what triggers a handover in Airtel's network?
+6
+What is the difference between bandwidth and throughput, and how do factors like latency and packet loss affect network performance in a telecom environment?
+7
+Airtel offers both B2C and B2B services including MPLS-based enterprise connectivity , can you explain what MPLS is and why enterprises prefer it over public internet?
+8
+What is the role of a Network Operations Center (NOC) and what key performance indicators (KPIs) would you monitor to ensure network health for a telecom operator like Airtel?
+
+Topics & Skills
+What the company tests
+25
+Analog Communication
+Digital Communication
+Modulation Techniques
+QAM
+QPSK
+Sampling Theorem
+OSI Model
+Computer Networks
+Network Devices
+Antenna Theory
+NPN Transistor
+Diodes
+Flip-Flops
+Registers
+Transducers
+Inverter Circuits
+Fleming's Left Hand Rule
+Basic Electronics
+RAG Architecture
+Generative AI
+Machine Learning
+Knowledge Graphs
+Resume Projects
+Communication Skills
+Leadership Skills
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+
+Back
+NETWORK/TELECOM/SUPPORT
+Question Set 2
+Network/Telecom/Support
+Similar questions asked at Caelius Consulting
+Question Set 2
+Network/Telecom/Support
+6
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Technical Associate/Application Developer
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+Master of Computer Application
+
+Technical Questions
+Reported by students
+3
+1
+What is a Binary Search Tree (BST) and what are its real-world applications?
+2
+What are Widgets in Flutter and how does the Widget tree work?
+3
+Can you walk us through the relevant projects or experiences mentioned on your resume?
+
+HR Questions
+Reported by students
+3
+1
+Why are you interested in the Application Technician role at Caelius Consulting?
+2
+How do you prioritize tasks when handling multiple client issues simultaneously?
+3
+Are you comfortable working in a client-facing or support-oriented environment?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+How would you diagnose and resolve a software application that is crashing intermittently on a client's system?
+2
+What is the difference between stateful and stateless widgets in Flutter, and when would you use each?
+3
+How do you approach configuring and deploying a software application for an enterprise client with specific environment requirements?
+4
+Can you explain the software development lifecycle (SDLC) and how an Application Technician fits into it?
+5
+What steps would you take to document a recurring technical issue so that future support tickets can be resolved faster?
+6
+How would you handle a situation where a client reports that a newly deployed application update has broken existing functionality?
+7
+What tools or methods do you use for debugging a Flutter application, and how do you use Flutter DevTools?
+8
+How do you stay updated with new software releases or patches relevant to the applications you support, and how would you communicate critical updates to clients?
+
+Topics & Skills
+What the company tests
+8
+Binary Search Tree
+Data Structures
+Flutter
+Widgets
+Widget Tree
+Mobile Development
+Software Troubleshooting
+Resume-based Technical Discussion
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+Back
+NETWORK/TELECOM/SUPPORT
+Question Set 3
+Network/Telecom/Support
+Similar questions asked at Ubiquiti
+Question Set 3
+Network/Telecom/Support
+12
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Network / Technical Support Engineer
+ELIGIBLE BRANCHES
+
+B.Tech Biomedical Engineering
+B.E. Chemical Engineering
+B.E. Civil Engineering
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics
+B.Tech Biotechnology
+
+Technical Questions
+Reported by students
+8
+1
+Can two laptops have different IP addresses and still connect to the same network?
+2
+What is the difference between a MAC address and an IP address? Can you provide examples?
+3
+What are the different protocols used in networking and what are their purposes?
+4
+Can you explain IP networking with a real-world example?
+5
+What is RAID, and what are its different types?
+6
+What is the difference between RAID 5 and RAID 6?
+7
+What is subnetting, why is it useful, and how are subnet masks assigned?
+8
+What is your technical knowledge of surveillance cameras and NAS (Network Attached Storage) devices?
+
+HR Questions
+Reported by students
+4
+1
+How would you handle an angry customer who is frustrated with the company and needs a solution that will take 2 to 3 days to implement?
+2
+How does your resume and past experience align with the requirements of this role?
+3
+Are you open to travelling as part of this job role?
+4
+Are you comfortable working in rotational or night shifts?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Ubiquiti uses its own UniFi ecosystem extensively , can you explain how you would set up and configure a UniFi network controller and adopt access points to it?
+2
+How would you troubleshoot a scenario where a UniFi access point is showing as disconnected in the UniFi Network Controller despite being physically powered on?
+3
+Ubiquiti's EdgeRouter uses CLI-based configuration , can you walk us through how you would configure a static route on an EdgeRouter?
+4
+How would you configure and manage VLANs on a Ubiquiti UniFi switch to segment guest traffic from corporate traffic?
+5
+Can you explain how PoE (Power over Ethernet) works and how it is relevant to deploying Ubiquiti access points and cameras in the field?
+6
+How would you approach diagnosing and resolving intermittent wireless connectivity issues reported by multiple users across a site running Ubiquiti APs?
+7
+Ubiquiti sells heavily to ISPs and enterprises , how would you explain the difference between a Layer 2 and Layer 3 switch to a non-technical customer?
+8
+If a customer reports that their Ubiquiti UniFi Protect camera feed is lagging or dropping, what steps would you take to identify and resolve the issue?
+
+Topics & Skills
+What the company tests
+15
+IP Addressing
+MAC Address
+Subnetting
+Subnet Masks
+Networking Protocols
+OSI Model
+RAID
+NAS
+Surveillance Systems
+Network Troubleshooting
+Network Configuration
+TCP/IP
+DNS
+DHCP
+VLANs
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+NON-TECH ROLE
+Question Set 1
+Non-Tech Role
+Similar questions asked at Growth Jockey
+Question Set 1
+Non-Tech Role
+16
+QUESTIONS
+ACTUAL ROLES REPORTED BY STUDENTS
+
+Non-Tech Role
+ELIGIBLE BRANCHES
+
+B.Tech Biomedical Engineering
+B.Tech Biotechnology
+B.E. Civil Engineering
+B.E. Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+B.E. Mechanical Engineering
+
+Technical Questions
+Reported by students
+10
+1
+What are the key Excel commands and functions you have worked with, and how have you applied them in data analysis?
+2
+What are the commonly used SQL commands, and can you explain how to write a query to retrieve and filter data from a database?
+3
+How would you explain Artificial Intelligence to a non-technical audience?
+4
+What do you understand by processes and frameworks in a business context?
+5
+What is your capstone project about, and what was your contribution to it?
+6
+Can you walk us through one of your campaigns mentioned on your resume?
+7
+What was your role at the Rotaract Club of Delhi Janak, and what did you achieve there?
+8
+What is 18% of 36?
+9
+Which subject did you enjoy the most during your college studies, and why?
+10
+Which subject did you dislike the most during your college studies, and why?
+
+HR Questions
+Reported by students
+6
+1
+Why are you interested in working at Growth Jockey, and how does this role align with your career goals?
+2
+Tell me about yourself and walk us through your academic and extracurricular background.
+3
+How do you prioritize tasks when managing multiple projects or deadlines simultaneously?
+4
+What is your biggest strength, and how have you demonstrated it professionally?
+5
+What is your biggest weakness, and how are you working to overcome it?
+6
+What do you think is the primary reason you might be rejected for this role?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+Growth Jockey works with startups and SMEs on growth and go-to-market strategies , how would you approach identifying growth bottlenecks for a new client?
+2
+How would you use Excel pivot tables and VLOOKUP to consolidate and analyze sales or marketing data for a client report?
+3
+Can you write an SQL query to find the top 5 performing products by revenue from a transactions table, grouped by product category?
+4
+Growth Jockey operates across digital marketing, strategy, and operations , which of these domains interests you most and why?
+5
+How would you prepare a business performance dashboard for a startup client using Excel or Google Sheets?
+6
+Describe a situation where you used data to support a business decision or recommendation , what tools did you use and what was the outcome?
+7
+How familiar are you with digital marketing metrics such as CAC, LTV, ROAS, and conversion rates, and how would you track them for a client?
+8
+If a client's growth has plateaued, what framework or structured approach would you use to diagnose the problem and propose solutions?
+
+Topics & Skills
+What the company tests
+7
+SQL
+Excel
+Data Analysis
+Business Operations
+Digital Marketing
+Growth Strategy
+Reporting & Dashboards
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+Back
+PATENT/IP
+Question Set 1
+Patent/IP
+Similar questions asked at Icuerious Research Services Llp
+Question Set 1
+Patent/IP
+Internship
+10
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Patent Research Analyst
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics
+
+Technical Questions
+Reported by students
+4
+1
+How did you approach and resolve any technical challenges or issues you encountered during your projects?
+2
+Can you walk us through the projects you have worked on and explain the technical concepts involved?
+3
+Which subject from your degree did you find most interesting, and how has it contributed to your technical understanding?
+4
+How do you visualize and understand the working of a new technology or a proposed idea when reviewing it technically?
+
+HR Questions
+Reported by students
+6
+1
+What were you trying to achieve in one of your key projects, and what was the innovative aspect of it?
+2
+What part of reviewing and analyzing different technologies do you find most interesting?
+3
+How well do you work in a team setting with people from different backgrounds or departments, and how do you ensure effective communication?
+4
+How have you handled obstacles or conflicts caused by team members in a collaborative work environment?
+5
+What is your personal brand — what one unique identifier sets you apart from other candidates?
+6
+How do you manage communication challenges or misunderstandings when working with people of varying skill levels or professional backgrounds?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is the difference between a patent, a trademark, and a copyright, and can you give an example of each?
+2
+Can you explain what prior art is and why it is important in the patent research and filing process?
+3
+Walk us through how you would conduct a prior art search for a given invention , what databases and tools would you use?
+4
+What are the key sections of a patent document, and what kind of information does each section contain?
+5
+How would you determine whether an invention meets the criteria of novelty and non-obviousness required for patentability?
+6
+Are you familiar with patent classification systems such as IPC or CPC, and how are they used to categorize inventions?
+7
+How would you approach writing a technical summary or landscape report for a set of patents in an unfamiliar technology domain?
+8
+If you were given a product and asked to assess potential patent infringement risks, how would you approach that analysis?
+
+Topics & Skills
+What the company tests
+10
+Patent Research
+Technical Literature Review
+Prior Art Search
+Analytical Thinking
+Report Writing
+MS Office
+Technical Communication
+IP Fundamentals
+Teamwork
+Technology Visualization
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
+
+
+
+Back
+PATENT/IP
+Question Set 2
+Patent/IP
+Similar questions asked at Sagacious Elevate
+Question Set 2
+Patent/IP
+73
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Patent Analyst
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+Master of Computer Application
+M.E. Computer Science & Engineering
+M.Tech VLSI Design
+M.E. Electric Vehicle Technology
+
+Technical Questions
+Reported by students
+64
+1
+What is the difference between DBMS and RDBMS?
+2
+What are ACID properties in DBMS?
+3
+What are primary keys, alternate keys, candidate keys, and super keys in DBMS?
+4
+What is BCNF and when is it applied?
+5
+What is Transaction Control in DBMS?
+6
+Explain the difference between JOINs and UNIONs, and describe the different types of JOINs.
+7
+What is the difference between IPv4 and IPv6?
+8
+What is the difference between TCP and UDP?
+9
+Explain CSMA/CD and CSMA/CA, and what is the efficiency of the ALOHA protocol?
+10
+How do RIP and OSPF work, and how does DNS lookup function?
+11
+What is ARP protocol?
+12
+What is the difference between hubs, switches, and routers, and can you answer a scenario-based question on network topologies?
+13
+Explain packet switching and circuit switching.
+14
+What are the four pillars of OOPs, and what is operator overloading?
+15
+What is the difference between method overriding and method overloading?
+16
+What is a pure virtual function?
+17
+What is inheritance in OOPs?
+18
+What is polymorphism?
+19
+Explain paging and virtual memory in Operating Systems.
+20
+What are semaphores and how are they used in OS?
+21
+What is a mutex and how does it differ from a semaphore?
+22
+Explain the Banker's Algorithm.
+23
+What are user threads?
+24
+What is the difference between a microcontroller and a microprocessor?
+25
+What is a Zener diode and what are its applications?
+26
+What is pinch-off voltage?
+27
+What is a power amplifier?
+28
+What is the difference between PWM and PAM?
+29
+Explain Prim's and Kruskal's algorithms for finding a minimum spanning tree.
+30
+What is the Travelling Salesman Problem and how is it solved?
+31
+What is an Optimal Binary Search Tree (OBST) and how is it constructed?
+32
+Explain the Quick Sort algorithm and its time complexity.
+33
+Explain any two Machine Learning algorithms in detail.
+34
+What is KNN and how does it work?
+35
+What is public key cryptography in cybersecurity?
+36
+You have a 3-litre bucket and a 5-litre bucket; how would you measure exactly 4 litres of water?
+37
+You have a puzzle involving 4 medicine tablets — how would you approach solving it?
+38
+Can you explain the RAG (Retrieval-Augmented Generation) architecture?
+39
+What is AWS and what are its core services?
+40
+What is microservices architecture and how does it work?
+41
+What are webhooks and how are they used in software systems?
+42
+Write an SQL query for a given problem.
+43
+How is a software product typically developed from ideation to deployment?
+44
+You have 3 switches in one room and can only visit the other room once — how do you determine which switch controls which light?
+45
+You need to find the minimum number of attempts to determine the highest safe floor from which an egg won't break in a 100-floor building — can this be solved with a yes/no approach?
+46
+Can you walk me through the details of your internship and the technical work you did?
+47
+Solve a logical reasoning puzzle.
+48
+What is the Consumer-Producer problem and how is it solved using semaphores?
+49
+How do you convert a binary search tree to a binary tree?
+50
+What is the difference between Artificial Intelligence and Machine Learning?
+51
+What are the common operations performed on a Linked List?
+52
+Can you explain the tech stack you used in your projects and why you chose it?
+53
+What is an algorithm and can you define it with a simple example?
+54
+What are the different types of SQL JOINs and when would you use each?
+55
+What is the difference between user space and kernel space?
+56
+How would you solve the Water Jug Problem?
+57
+What are the different memory management techniques used in operating systems?
+58
+What are semaphores and how are they used in process synchronization?
+59
+What are the four basic principles of Object-Oriented Programming?
+60
+What is a message passing system in the context of inter-process communication?
+61
+What is a system call and how does it work?
+62
+What is Boyce-Codd Normal Form (BCNF) in database normalization?
+63
+What is polymorphism in OOP and what are its types?
+64
+What is transitive dependency and how does it relate to database normalization?
+
+HR Questions
+Reported by students
+9
+1
+How do you envision a career as a Patent Analyst?
+2
+What are your thoughts on the Patent Analyst industry and its future prospects?
+3
+What do you know about Elevate as a company and what it does?
+4
+Tell me about yourself.
+5
+Where do you see yourself in the next five years?
+6
+Tell me about yourself and your background.
+7
+Why do you want to join Elevate?
+8
+What are your strengths and weaknesses?
+9
+How do you handle pressure or tight deadlines?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is a patent, and what are the key criteria (novelty, non-obviousness, and utility) that an invention must meet to be patentable?
+2
+What is the difference between a utility patent, a design patent, and a plant patent?
+3
+Can you explain the patent prosecution process from filing a patent application to grant?
+4
+What is prior art, and why is conducting a prior art search important in patent analysis?
+5
+What is the role of claims in a patent document, and how do independent claims differ from dependent claims?
+6
+How would you assess whether a new software or AI-based invention is patentable given subject matter eligibility challenges?
+7
+What is Freedom-to-Operate (FTO) analysis, and why is it critical for companies launching new products?
+8
+At Elevate, patent analysts often work at the intersection of technology and law , how does your engineering background in electronics or computer science help you understand and analyze technical patent documents?
+
+Topics & Skills
+What the company tests
+18
+DBMS
+SQL
+Computer Networks
+Operating Systems
+OOPs
+Data Structures
+Algorithms
+Machine Learning
+Analog Electronics
+Digital Electronics
+Cybersecurity
+DSA
+Graph Algorithms
+Paging & Memory Management
+Process Synchronization
+Patent Law Basics
+Logical Puzzles
+Aptitude
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+Back
+PATENT/IP
+Question Set 2
+Patent/IP
+Similar questions asked at Sagacious Elevate
+Question Set 2
+Patent/IP
+73
+QUESTIONS
+OFFICIAL ROLES DECLARED BY COMPANY
+
+Patent Analyst
+ELIGIBLE BRANCHES
+
+B.E. Computer Engineering
+B.E. Computer Science & Engineering (Patiala Campus)
+B.E. Computer Science and Business Systems
+B.E. Electrical and Computer Engineering
+B.E. Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.E. Electronics & Communication Engineering
+B.E. Electronics and Computer Engineering
+Master of Computer Application
+M.E. Computer Science & Engineering
+M.Tech VLSI Design
+M.E. Electric Vehicle Technology
+
+Technical Questions
+Reported by students
+64
+1
+What is the difference between DBMS and RDBMS?
+2
+What are ACID properties in DBMS?
+3
+What are primary keys, alternate keys, candidate keys, and super keys in DBMS?
+4
+What is BCNF and when is it applied?
+5
+What is Transaction Control in DBMS?
+6
+Explain the difference between JOINs and UNIONs, and describe the different types of JOINs.
+7
+What is the difference between IPv4 and IPv6?
+8
+What is the difference between TCP and UDP?
+9
+Explain CSMA/CD and CSMA/CA, and what is the efficiency of the ALOHA protocol?
+10
+How do RIP and OSPF work, and how does DNS lookup function?
+11
+What is ARP protocol?
+12
+What is the difference between hubs, switches, and routers, and can you answer a scenario-based question on network topologies?
+13
+Explain packet switching and circuit switching.
+14
+What are the four pillars of OOPs, and what is operator overloading?
+15
+What is the difference between method overriding and method overloading?
+16
+What is a pure virtual function?
+17
+What is inheritance in OOPs?
+18
+What is polymorphism?
+19
+Explain paging and virtual memory in Operating Systems.
+20
+What are semaphores and how are they used in OS?
+21
+What is a mutex and how does it differ from a semaphore?
+22
+Explain the Banker's Algorithm.
+23
+What are user threads?
+24
+What is the difference between a microcontroller and a microprocessor?
+25
+What is a Zener diode and what are its applications?
+26
+What is pinch-off voltage?
+27
+What is a power amplifier?
+28
+What is the difference between PWM and PAM?
+29
+Explain Prim's and Kruskal's algorithms for finding a minimum spanning tree.
+30
+What is the Travelling Salesman Problem and how is it solved?
+31
+What is an Optimal Binary Search Tree (OBST) and how is it constructed?
+32
+Explain the Quick Sort algorithm and its time complexity.
+33
+Explain any two Machine Learning algorithms in detail.
+34
+What is KNN and how does it work?
+35
+What is public key cryptography in cybersecurity?
+36
+You have a 3-litre bucket and a 5-litre bucket; how would you measure exactly 4 litres of water?
+37
+You have a puzzle involving 4 medicine tablets — how would you approach solving it?
+38
+Can you explain the RAG (Retrieval-Augmented Generation) architecture?
+39
+What is AWS and what are its core services?
+40
+What is microservices architecture and how does it work?
+41
+What are webhooks and how are they used in software systems?
+42
+Write an SQL query for a given problem.
+43
+How is a software product typically developed from ideation to deployment?
+44
+You have 3 switches in one room and can only visit the other room once — how do you determine which switch controls which light?
+45
+You need to find the minimum number of attempts to determine the highest safe floor from which an egg won't break in a 100-floor building — can this be solved with a yes/no approach?
+46
+Can you walk me through the details of your internship and the technical work you did?
+47
+Solve a logical reasoning puzzle.
+48
+What is the Consumer-Producer problem and how is it solved using semaphores?
+49
+How do you convert a binary search tree to a binary tree?
+50
+What is the difference between Artificial Intelligence and Machine Learning?
+51
+What are the common operations performed on a Linked List?
+52
+Can you explain the tech stack you used in your projects and why you chose it?
+53
+What is an algorithm and can you define it with a simple example?
+54
+What are the different types of SQL JOINs and when would you use each?
+55
+What is the difference between user space and kernel space?
+56
+How would you solve the Water Jug Problem?
+57
+What are the different memory management techniques used in operating systems?
+58
+What are semaphores and how are they used in process synchronization?
+59
+What are the four basic principles of Object-Oriented Programming?
+60
+What is a message passing system in the context of inter-process communication?
+61
+What is a system call and how does it work?
+62
+What is Boyce-Codd Normal Form (BCNF) in database normalization?
+63
+What is polymorphism in OOP and what are its types?
+64
+What is transitive dependency and how does it relate to database normalization?
+
+HR Questions
+Reported by students
+9
+1
+How do you envision a career as a Patent Analyst?
+2
+What are your thoughts on the Patent Analyst industry and its future prospects?
+3
+What do you know about Elevate as a company and what it does?
+4
+Tell me about yourself.
+5
+Where do you see yourself in the next five years?
+6
+Tell me about yourself and your background.
+7
+Why do you want to join Elevate?
+8
+What are your strengths and weaknesses?
+9
+How do you handle pressure or tight deadlines?
+
+Additional Practice Questions
+AI-researched, company-specific
+8
+1
+What is a patent, and what are the key criteria (novelty, non-obviousness, and utility) that an invention must meet to be patentable?
+2
+What is the difference between a utility patent, a design patent, and a plant patent?
+3
+Can you explain the patent prosecution process from filing a patent application to grant?
+4
+What is prior art, and why is conducting a prior art search important in patent analysis?
+5
+What is the role of claims in a patent document, and how do independent claims differ from dependent claims?
+6
+How would you assess whether a new software or AI-based invention is patentable given subject matter eligibility challenges?
+7
+What is Freedom-to-Operate (FTO) analysis, and why is it critical for companies launching new products?
+8
+At Elevate, patent analysts often work at the intersection of technology and law , how does your engineering background in electronics or computer science help you understand and analyze technical patent documents?
+
+Topics & Skills
+What the company tests
+18
+DBMS
+SQL
+Computer Networks
+Operating Systems
+OOPs
+Data Structures
+Algorithms
+Machine Learning
+Analog Electronics
+Digital Electronics
+Cybersecurity
+DSA
+Graph Algorithms
+Paging & Memory Management
+Process Synchronization
+Patent Law Basics
+Logical Puzzles
+Aptitude
+TietPrep
+TietPrep
+Placement Interview Prep Portal
+
+A HUMBLE SOLUTIONS PRODUCT
+
+
